@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { TeamPageTemplate } from '../../templates/Team-page'
+import { TeamPageTemplate } from '../../templates/team-page'
 
 const TeamPagePreview = ({ entry, getAsset }) => {
   const entryBlurbs = entry.getIn(['data', 'intro', 'blurbs'])
