@@ -11,10 +11,10 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
     <section className="section section--gradient">
       <div className="container">
         <div className="columns">
-          <aside className="column is-2">
-            <Link to='/team'>Histórico</Link>
-            <Link to='/team'>Linhas de Pesquisa</Link>
-            <Link to='/team'>Equipe</Link>
+          <aside className="column is-2 aside-menu">
+            <Link to='/team' className="navside-item">Histórico</Link>
+            <Link to='/team' className="navside-item">Linhas de Pesquisa</Link>
+            <Link to='/team' className="navside-item">Equipe</Link>
           </aside>
           <div className="column">
             <div className="section">
