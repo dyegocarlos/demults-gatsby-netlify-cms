@@ -1,14 +1,12 @@
 ---
 templateKey: index-page
 title: Grupo de Pesquisa DEMULTS
-image: /img/img_20200309_133648.jpg
+image: /img/img_20200309_133648-cópia.jpg
 heading: Grupo de Pesquisa DEMULTS
 subheading: Desenvolvimento Educacional de Multimídias Sustentáveis
 mainpitch:
-  title: Why DEMULTS?
-  description: "DEMULTS is the research group for everyone who believes that great
-    research shouldn't just make with a good method, it should focus in reality
-    transformation too. "
+  title: DEMULTS
+  description: PSICOLOGIA | EDUCAÇÃO | COMPUTAÇÃO
 description: "O DEMULTS (Desenvolvimento Educacional de Multimídias
   sustentáveis), como grupo de pesquisa interdisciplinar, foi fundado em 2012,
   com raízes em diversas áreas de atuação, principalmente relacionadas a
@@ -46,12 +44,8 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: intro
+  description: desc intro
 main:
   heading: Great coffee with no compromises
   description: >
