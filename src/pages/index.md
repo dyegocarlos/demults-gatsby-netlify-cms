@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Grupo de Pesquisa DEMULTS
-image: /img/cape-town-foto.jpg
+image: /img/img_20200309_133648.jpg
 heading: Grupo de Pesquisa DEMULTS
 subheading: Desenvolvimento Educacional de Multimídias Sustentáveis
 mainpitch:
@@ -9,10 +9,14 @@ mainpitch:
   description: "DEMULTS is the research group for everyone who believes that great
     research shouldn't just make with a good method, it should focus in reality
     transformation too. "
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: "O DEMULTS (Desenvolvimento Educacional de Multimídias
+  sustentáveis), como grupo de pesquisa interdisciplinar, foi fundado em 2012,
+  com raízes em diversas áreas de atuação, principalmente relacionadas a
+  Educação, Psicologia e Computação. Certificado pelo CNPq
+  (http://dgp.cnpq.br/dgp/espelhogrupo/300384), suas linhas de pesquisa são:
+  Processos Educativos e Construção de Identidade Mediados por Tecnologias;
+  Pensamento Computacional e Educação; Aprendizagem e Desenvolvimento em
+  Contextos Informatizados."
 intro:
   blurbs:
     - image: /img/coffee.png
