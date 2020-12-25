@@ -102,6 +102,16 @@ $ npm run serve
 
 Follow the [Netlify CMS Quick Start Guide](https://www.netlifycms.org/docs/quick-start/#authentication) to set up authentication, and hosting.
 
+### Creating a Page
+Change/create the following files
+CMS
+pages > nameOfPage > index.md
+config.yml
+templates > nameOfPage-page.js
+cms > preview-templates > nameOfPage.js
+Footer
+NavBar
+
 ## Debugging
 
 Windows users might encounter `node-gyp` errors when trying to npm install.
