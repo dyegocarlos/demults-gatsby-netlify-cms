@@ -17,3 +17,4 @@ AboutPagePreview.propTypes = {
 }
 
 export default AboutPagePreview
+
