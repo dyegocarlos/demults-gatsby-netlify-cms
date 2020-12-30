@@ -26,5 +26,9 @@ timelineEvents:
       INFORMÁTICA NA EDUCAÇÃO, 31. , 2020, Online. Anais [...]. Porto Alegre:
       Sociedade Brasileira de Computação, 2020 . p. 212-221."
     link: https://sol.sbc.org.br/index.php/sbie/article/view/12777
+  - year: "2012"
+    event: WEI
+    bib: weiwiewewie
+    link: google.com
 ---
 Área reservada para publicações e premiações relativas a trabalhos realizados no escopo do grupo de pesquisa.
