@@ -30,5 +30,9 @@ timelineEvents:
     event: WEI
     bib: weiwiewewie
     link: google.com
+  - year: "2011"
+    event: test
+    bib: testesstets
+    link: google.com
 ---
 Área reservada para publicações e premiações relativas a trabalhos realizados no escopo do grupo de pesquisa.
