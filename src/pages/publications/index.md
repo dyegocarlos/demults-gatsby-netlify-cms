@@ -35,8 +35,8 @@ timelineEvents:
     bib: testesstets
     link: google.com
   - year: "2010"
-    event: dtsdgf
-    bib: dfdfg
-    link: google.com
+    event: "1231"
+    bib: asfd
+    link: asasf
 ---
 Área reservada para publicações e premiações relativas a trabalhos realizados no escopo do grupo de pesquisa.
