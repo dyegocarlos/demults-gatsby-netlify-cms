@@ -3,13 +3,15 @@ heading: Pessoas Pesquisadoras, Orientadoras e Orientandas
 path: /team
 templateKey: team-page
 title: Equipe
-image: /img/jumbotron.jpg
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+image: /img/captura-de-tela-2020-12-17-às-09.17.20.png
+description: "O DEMULTS se tornou um ambiente em que as relações se dão para
+  além das intenções acadêmicas e profissionais. "
 intro:
   blurbs:
+    - image: /img/eu.png
+      text: Licenciado, Mestre e Doutorando em Ciência da Computação. Participa do
+        DEMULTS desde sua criação em 2012 investigando processos participativos
+        em contextos escolares urbanos e rurais.
     - image: /img/coffee.png
       text: Licenciado, Mestre e Doutorando em Ciência da Computação. Participa do
         DEMULTS desde sua criação em 2012 investigando processos participativos
@@ -27,17 +29,10 @@ intro:
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
   heading: Pesquisadores
   description: desc
 main:
-  heading: Great coffee with no compromises
+  heading: Teste
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
@@ -59,7 +54,7 @@ testimonials:
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+full_image: /img/dmts.jpeg
 pricing:
   heading: Monthly subscriptions
   description: We make it easy to make great coffee a part of your life. Choose
