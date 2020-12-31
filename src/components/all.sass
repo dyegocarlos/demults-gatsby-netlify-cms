@@ -1,14 +1,25 @@
 @import "~bulma/sass/utilities/initial-variables"
 
 // Config vars
-// Kaldi logo brand color: #FD461E
-$kaldi-red: #FF5B00
-$kaldi-red-invert: #fff
+// demults logo brand color: #FD461E
+$demults-orange: #FF5B00
+$demults-light-blue: #1D71B8
+$demults-blue: #2C3A76
+$demults-dark-blue: #18223B
+$demults-orange-invert: #fff
 
-$primary: $kaldi-red
-$primary-invert: $kaldi-red-invert
+$primary: $demults-orange
+$secondary: $demults-blue
+$primary-invert: $demults-orange-invert
 $body-color: #333
 $black: #2b2523
+
+.content h1, .content h2, .content h3, .content h4
+  &.heading-title-page
+    box-shadow: 0.5rem 0 0 $primary, -0.5rem 0 0 $primary !important
+    background-color: $primary !important
+    color: white
+    padding: 1rem
 
 .navbar .navbar-menu
   box-shadow:none !important
@@ -83,6 +94,8 @@ $black: #2b2523
   fill: currentColor
 .navbar-brand .navbar-item.logo
   padding: 0 1rem
+.logo-txt
+  color: $secondary
 footer.footer
   padding: 3rem 0rem 0rem
   background-color: transparent
@@ -91,9 +104,9 @@ footer.footer
 $menu-item-color: $white-ter
 $menu-item-hover-color: $black !important
 $menu-item-hover-background-color: $black
-$menu-item-active-color: $kaldi-red-invert
-$menu-item-active-background-color:	$kaldi-red-invert
-$menu-list-border-left: 1px solid $kaldi-red-invert
+$menu-item-active-color: $demults-orange-invert
+$menu-item-active-background-color:	$demults-orange-invert
+$menu-list-border-left: 1px solid $demults-orange-invert
 $menu-label-color: $white-ter
 
 
