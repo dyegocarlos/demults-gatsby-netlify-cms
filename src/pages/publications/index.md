@@ -5,8 +5,12 @@ title: Publicações e Premiações
 timelineEvents:
   - year: 2020
     event: asfasf
-    bib: asfasf
-    link: asfafs
+    bib: "PERES, Flavia; MORAIS, Dyego; QUEIROZ, Shany; SANTANA, Bruno.
+      Desenvolvimento de Artefatos Digitais por Estudantes na Educação do Campo:
+      Uma Pesquisa-Ação em Comunidades de Prática. In: SIMPÓSIO BRASILEIRO DE
+      INFORMÁTICA NA EDUCAÇÃO, 31. , 2020, Online. Anais [...]. Porto Alegre:
+      Sociedade Brasileira de Computação, 2020 . p. 212-221."
+    link: https://sol.sbc.org.br/index.php/sbie/article/view/12777
   - year: 1874
     event: SBIE
     bib: asasfaf
