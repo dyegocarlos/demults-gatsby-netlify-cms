@@ -3,7 +3,7 @@ heading: Pessoas Pesquisadoras, Orientadoras e Orientandas
 path: /team
 templateKey: team-page
 title: Equipe
-image: /img/jumbotron.jpg
+image: /img/captura-de-tela-2020-12-17-às-09.17.20.png
 description: "O DEMULTS se tornou um ambiente em que as relações se dão para
   além das intenções acadêmicas e profissionais. "
 intro:
