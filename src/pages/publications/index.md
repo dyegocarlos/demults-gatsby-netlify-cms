@@ -11,22 +11,14 @@ timelineEvents:
       INFORMÁTICA NA EDUCAÇÃO, 31. , 2020, Online. Anais [...]. Porto Alegre:
       Sociedade Brasileira de Computação, 2020 . p. 212-221."
     link: https://sol.sbc.org.br/index.php/sbie/article/view/12777
-  - year: 1874
-    event: SBIE
-    bib: asasfaf
-    link: asfasf
-  - year: 2020
-    event: asfas
-    bib: adfasf
-    link: sfgasfasf
-  - year: 1987
-    event: teste
-    bib: teste
-    link: teste
-  - year: 1960
-    event: 123a
-    bib: 123aa
-    link: 123a
+  - year: 2017
+    event: SBIE - Simpósio Brasileiro de Informática na Educação
+    bib: 'MORAIS, Dyego; PONTUAL, Taciana. "Today Is So Cool Nobody Wants to Leave":
+      What Makes Teenagers Engaged in Developing Educational Games at School?.
+      Brazilian Symposium on Computers in Education (Simpósio Brasileiro de
+      Informática na Educação - SBIE), [S.l.], p. 807, out. 2017. ISSN
+      2316-6533.'
+    link: http://dx.doi.org/10.5753/cbie.sbie.2017.807
   - year: 2015
     event: SBIE - Simpósio Brasileiro de Informática na Educação
     bib: " MORAIS, Dyego et al. Storyboards no Desenvolvimento de Jogos Digitais
