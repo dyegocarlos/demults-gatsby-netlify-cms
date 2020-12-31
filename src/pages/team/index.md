@@ -4,12 +4,13 @@ path: /team
 templateKey: team-page
 title: Equipe
 image: /img/jumbotron.jpg
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: "O DEMULTS se tornou um ambiente em que as relações se dão para
+  além das intenções acadêmicas e profissionais. "
 intro:
   blurbs:
+    - image: /img/eu.png
+      text: Licenciado, Mestre e Doutorando em Ciência da Computação. Participa do
+        DEMULTS desde sua criação em 2012.
     - image: /img/coffee.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
@@ -40,7 +41,7 @@ intro:
   heading: Pesquisadores
   description: desc
 main:
-  heading: Great coffee with no compromises
+  heading: Teste
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
