@@ -10,7 +10,8 @@ intro:
   blurbs:
     - image: /img/eu.png
       text: Licenciado, Mestre e Doutorando em Ciência da Computação. Participa do
-        DEMULTS desde sua criação em 2012.
+        DEMULTS desde sua criação em 2012 investigando processos participativos
+        em contextos escolares urbanos e rurais.
     - image: /img/coffee.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
