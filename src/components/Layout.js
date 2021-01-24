@@ -6,6 +6,8 @@ import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
 
+const logo = '../img/logo.svg'
+
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()
   return (
@@ -22,15 +24,9 @@ const TemplateWrapper = ({ children }) => {
         />
         <link
           rel="icon"
-          type="image/png"
-          href={`${withPrefix('/')}img/favicon-32x32.png`}
-          sizes="32x32"
-        />
-        <link
-          rel="icon"
-          type="image/png"
-          href={`${withPrefix('/')}img/favicon-16x16.png`}
-          sizes="16x16"
+          type="image/svg+xml"
+          href={logo}
+          sizes="any"
         />
 
         <link
@@ -45,7 +41,7 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:url" content="/" />
         <meta
           property="og:image"
-          content={`${withPrefix('/')}img/og-image.jpg`}
+          content={logo}
         />
       </Helmet>
       <Navbar />
