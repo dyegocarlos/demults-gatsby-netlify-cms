@@ -26,5 +26,9 @@ timelineEvents:
       Symposium on Computers in Education (Simpósio Brasileiro de Informática na
       Educação - SBIE), [S.l.], p. 529, out. 2015. ISSN 2316-6533."
     link: https://www.br-ie.org/pub/index.php/sbie/article/view/5307
+  - year: 2015
+    event: evento test
+    bib: bibliografiabibliografiabibliografiabibliografiabibliografiabibliografiabibliografia
+    link: https://www.br-ie.org/pub/index.php/sbie/article/view/5307
 ---
 Área reservada para publicações e premiações relativas a trabalhos realizados no escopo do grupo de pesquisa.
