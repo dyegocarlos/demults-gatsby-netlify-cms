@@ -30,5 +30,10 @@ timelineEvents:
     event: evento test
     bib: bibliografiabibliografiabibliografiabibliografiabibliografiabibliografiabibliografia
     link: https://www.br-ie.org/pub/index.php/sbie/article/view/5307
+  - year: 2016
+    event: Prêmio Santander
+    bib: Segundo lugar na categoria melhor grupo de pesquisa do prêmio santander
+      universidades
+    link: https://www.br-ie.org/pub/index.php/sbie/article/view/5307
 ---
 Área reservada para publicações e premiações relativas a trabalhos realizados no escopo do grupo de pesquisa.
