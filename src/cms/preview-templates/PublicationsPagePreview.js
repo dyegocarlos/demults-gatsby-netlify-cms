@@ -11,6 +11,7 @@ const PublicationsPagePreview = ({ entry, widgetFor }) => {
 
   return (
   <PublicationsPageTemplate
+    image={getAsset(entry.getIn(['data', 'image']))}
     title={entry.getIn(['data', 'title'])}
     content={widgetFor('body')}
 

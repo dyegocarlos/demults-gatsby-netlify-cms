@@ -2,6 +2,7 @@
 templateKey: about-page
 path: /about
 title: Histórico
+image: /img/captura-de-tela-2020-12-17-às-09.17.20.png
 ---
 O DEMULTS (Desenvolvimento Educacional de Multimídias sustentáveis), como grupo de pesquisa interdisciplinar, foi fundado em 2012, com raízes em diversas áreas de atuação, principalmente relacionadas a Educação, Psicologia e Computação.
 

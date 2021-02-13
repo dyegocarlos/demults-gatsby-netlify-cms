@@ -175,7 +175,12 @@ export const productPageQuery = graphql`
                 }
               }
             }
+            name
             text
+            lattes
+            site
+            linkedin
+            email
           }
           heading
           description

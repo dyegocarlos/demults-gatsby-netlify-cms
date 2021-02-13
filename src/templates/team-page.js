@@ -124,7 +124,12 @@ export const TeamPageQuery = graphql`
                 }
               }
             }
+            name
             text
+            lattes
+            site
+            linkedin
+            email
           }
           heading
           description

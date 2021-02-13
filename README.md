@@ -47,6 +47,7 @@ $ cd [REPO_NAME]
 $ yarn
 $ netlify dev # or ntl dev
 ```
+npx netlify-cms-proxy-server
 
 This uses the new [Netlify Dev](https://www.netlify.com/products/dev/?utm_source=blog&utm_medium=netlifycms&utm_campaign=devex) CLI feature to serve any functions you have in the `lambda` folder.
 

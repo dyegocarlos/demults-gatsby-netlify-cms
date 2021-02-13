@@ -35,7 +35,13 @@ class TimelineEvents extends React.Component {
                             </header>
                             )}
                             <div className="timeline-item">
+                            {arr[i].prize ? (
+                                <div class="timeline-marker is-image is-32x32 prize">
+                                    <img src="https://bulma.io/images/placeholders/32x32.png" />
+                                </div>
+                            ) : (
                                 <div className="timeline-marker"></div>
+                            )}
                                 <div className="timeline-content">
                                     <p className="heading">{item.event}</p>
                                     <p>{item.bib}</p>
@@ -63,6 +69,7 @@ TimelineEvents.propTypes = {
                             event: PropTypes.string,
                             bib: PropTypes.string,
                             link: PropTypes.string,
+                            prize: PropTypes.boolean
                         })
                     ),
                   })
@@ -94,6 +101,7 @@ export default () => (
                                     event
                                     link
                                     year
+                                    prize
                                 }
                             }
                         }
