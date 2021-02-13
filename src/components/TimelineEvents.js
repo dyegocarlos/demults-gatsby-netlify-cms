@@ -43,9 +43,11 @@ class TimelineEvents extends React.Component {
                                 <div className="timeline-marker"></div>
                             )}
                                 <div className="timeline-content">
-                                    <p className="heading">{item.event}</p>
-                                    <p>{item.bib}</p>
-                                    <Link to={item.link} className="btn">acessar</Link>
+                                    <Link to={item.link} className="txt-dark hover-blue">
+                                        <p className="heading is-size-5	">{item.event}</p>
+                                        <p className="">{item.bib}</p>
+                                        <a href="" className="btn is-size-7	">acessar</a>
+                                    </Link>
                                 </div>
                             </div>
                         </div>

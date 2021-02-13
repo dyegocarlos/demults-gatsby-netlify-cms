@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { PublicationsPageTemplate } from '../../templates/publications-page'
 
-const PublicationsPagePreview = ({ entry, widgetFor }) => {
+const PublicationsPagePreview = ({ entry, widgetFor, getAsset }) => {
   const entryTimelineEvents = entry.getIn(['data', 'timelineEvents']);
   const timelineEvents = entryTimelineEvents ? entryTimelineEvents.toJS() : [];
 

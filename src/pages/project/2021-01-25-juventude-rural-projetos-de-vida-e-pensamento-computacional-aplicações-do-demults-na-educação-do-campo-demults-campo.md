@@ -1,5 +1,6 @@
 ---
 templateKey: project-post
+image: /img/captura-de-tela-2020-12-17-às-09.17.20.png
 title: "Juventude Rural, Projetos de vida e Pensamento Computacional: Aplicações
   do DEMULTS na Educação do Campo (DEMULTS-Campo)"
 date: 2017-08-01T17:04:00.000Z
@@ -29,7 +30,30 @@ testimonials:
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
-link: https://google.com
+artfacts:
+  blurbs:
+    - image: /img/coffee-gear.png
+      text: >
+        We offer a small, but carefully curated selection of brewing gear and
+        tools for every taste and experience level. No matter if you roast your
+        own beans or just bought your first french press, you’ll find a gadget
+        to fall in love with in our shop.
+      name: Titulo
+      link: https://www.google.com
+    - image: /img/coffee-gear.png
+      text: >
+        We offer a small, but carefully curated selection of brewing gear and
+        tools for every taste and experience level. No matter if you roast your
+        own beans or just bought your first french press, you’ll find a gadget
+        to fall in love with in our shop.
+      name: Titulo
+      link: https://www.google.com
+  heading: What we offer
+  description: >
+    Kaldi is the ultimate spot for coffee lovers who want to learn about their
+    java’s origin and support the farmers that grew it. We take coffee
+    production, roasting and brewing seriously and we’re glad to pass that
+    knowledge to anyone. This is an edit via identity...
 tags:
   - demults-campo
 ---

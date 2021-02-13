@@ -7,8 +7,10 @@ import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 import Testimonials from '../components/Testimonials'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import Artfacts from '../components/Artfacts'
 
 export const ProjectPostTemplate = ({
+  image,
   content,
   contentComponent,
   description,
@@ -18,66 +20,85 @@ export const ProjectPostTemplate = ({
   coworkers,
   main,
   testimonials,
-  link
+  artfacts
 }) => {
   const ProjectPostContent = contentComponent || Content
 
   return (
-    <section className="section">
-      {helmet || ''}
-      <div className="container content">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            <p>{description}</p>
-            <ProjectPostContent content={content} />
-            <h2>Integrantes:</h2>
-            <p>{coworkers}</p>
-            <Testimonials testimonials={testimonials} />
-            <div className="tile is-ancestor">
-                <div className="tile is-vertical">
-                  <div className="tile">
-                    <div className="tile is-parent is-vertical">
-                      <article className="tile is-child">
-                        <PreviewCompatibleImage imageInfo={main.image1} />
-                      </article>
+    <div className="content">
+      <div
+        className="full-width-image-container margin-top-0"
+        style={{
+          backgroundImage: `url(${image &&
+            !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+          })`,
+        }}
+      >
+        <h2
+          className="has-text-weight-bold is-size-1 heading-title-page"
+        >
+          Projeto
+        </h2>
+      </div>
+      <section className="section">
+        {helmet || ''}
+        <div className="container content">
+          <div className="columns">
+            <div className="column is-10 is-offset-1">
+              <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+                {title}
+              </h1>
+              <p>{description}</p>
+              <ProjectPostContent content={content} />
+              <h2>Integrantes:</h2>
+              <p>{coworkers}</p>
+              <Testimonials testimonials={testimonials} />
+              <div className="tile is-ancestor">
+                  <div className="tile is-vertical">
+                    <div className="tile">
+                      <div className="tile is-parent is-vertical">
+                        <article className="tile is-child">
+                          <PreviewCompatibleImage imageInfo={main.image1} />
+                        </article>
+                      </div>
+                      <div className="tile is-parent">
+                        <article className="tile is-child">
+                          <PreviewCompatibleImage imageInfo={main.image2} />
+                        </article>
+                      </div>
                     </div>
                     <div className="tile is-parent">
                       <article className="tile is-child">
-                        <PreviewCompatibleImage imageInfo={main.image2} />
+                        <PreviewCompatibleImage imageInfo={main.image3} />
                       </article>
                     </div>
                   </div>
-                  <div className="tile is-parent">
-                    <article className="tile is-child">
-                      <PreviewCompatibleImage imageInfo={main.image3} />
-                    </article>
-                  </div>
-                </div>
-            </div>
-            <Link to={link}>baixar artefato</Link>
-            {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
-                <h4>Tags</h4>
-                <ul className="taglist">
-                  {tags.map((tag) => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
               </div>
-            ) : null}
+              <h2>{artfacts.heading}</h2>
+              <p>{artfacts.description}</p>
+              <Artfacts gridItems={artfacts.blurbs} />
+              {tags && tags.length ? (
+                <div style={{ marginTop: `4rem` }}>
+                  <h4>Tags</h4>
+                  <ul className="taglist">
+                    {tags.map((tag) => (
+                      <li key={tag + `tag`}>
+                        <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              ) : null}
+            </div>
           </div>
         </div>
-      </div>
-    </section>
+      </section>
+    </div>
   )
 }
 
 ProjectPostTemplate.propTypes = {
+  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
   description: PropTypes.string,
@@ -92,7 +113,11 @@ ProjectPostTemplate.propTypes = {
     image3: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   }),
   testimonials: PropTypes.array,
-  link: PropTypes.string,
+  artfacts: PropTypes.shape({
+    blurbs: PropTypes.array,
+    heading: PropTypes.string,
+    description: PropTypes.string
+  }),
 }
 
 const ProjectPost = ({ data }) => {
@@ -101,6 +126,7 @@ const ProjectPost = ({ data }) => {
   return (
     <Layout>
       <ProjectPostTemplate
+        image={post.frontmatter.image}
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
@@ -118,7 +144,7 @@ const ProjectPost = ({ data }) => {
         testimonials={post.frontmatter.testimonials}
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
-        link={post.frontmatter.link}
+        artfacts={post.frontmatter.artfacts}
       />
     </Layout>
   )
@@ -139,6 +165,13 @@ export const pageQuery = graphql`
       html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
+        image {
+          childImageSharp {
+            fluid(maxWidth: 2048, quality: 100) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
         title
         description
         coworkers
@@ -181,7 +214,22 @@ export const pageQuery = graphql`
           quote
         }
         tags
-        link
+        artfacts {
+          blurbs {
+            image {
+              childImageSharp {
+                fluid(maxWidth: 240, quality: 64) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+            name
+            text
+            link
+          }
+          heading
+          description
+        }
       }
     }
   }

@@ -3,12 +3,19 @@ import PropTypes from 'prop-types'
 import { ProjectPostTemplate } from '../../templates/project-post'
 
 const ProjectPostPreview = ({ entry, widgetFor, getAsset }) => {
+  const data = entry.getIn(['data']).toJS()
+
+  const entryBlurbs = entry.getIn(['data', 'artfacts', 'blurbs'])
+  const blurbs = entryBlurbs ? entryBlurbs.toJS() : []
+
   const entryTestimonials = entry.getIn(['data', 'testimonials'])
   const testimonials = entryTestimonials ? entryTestimonials.toJS() : []
 
   const tags = entry.getIn(['data', 'tags'])
+
   return (
     <ProjectPostTemplate
+      image={getAsset(entry.getIn(['data', 'image']))}
       content={widgetFor('body')}
       description={entry.getIn(['data', 'description'])}
       coworkers={entry.getIn(['data', 'coworkers'])}
@@ -31,7 +38,7 @@ const ProjectPostPreview = ({ entry, widgetFor, getAsset }) => {
       testimonials={testimonials}
       tags={tags && tags.toJS()}
       title={entry.getIn(['data', 'title'])}
-      link={entry.getIn(['data', 'link'])}
+      artfacts={data.artfacts || { blurbs: [] }}
     />
   )
 }
