@@ -141,11 +141,11 @@ $menu-label-color: $white-ter
 .blog-list-item.is-featured
   background-color: #eee;
 .blog-list-item header
-  display: flex;
+  display: block;
   margin-bottom: 1em;
 .blog-list-item .featured-thumbnail
-  flex-basis: 35%;
-  margin: 0 1.5em 0 0;
+  margin: 0 2.5em 1em;
+  text-align: center;
 
 
 @import "~bulma"
@@ -154,12 +154,13 @@ $menu-label-color: $white-ter
 // responsiveness
 +tablet-only
   .blog-list-item .featured-thumbnail
-    flex-basis: 50%;
+    margin: 0 3.5em;
+    max-width: 70%;
 
 +mobile
   .blog-list-item header
     display: block
   .blog-list-item .featured-thumbnail
-    text-align: center;
     max-width: 70%;
     margin: 0 0 1em;
+    text-align: center;
