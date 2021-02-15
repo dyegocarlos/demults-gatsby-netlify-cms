@@ -129,6 +129,30 @@ intro:
       linkedin: https://www.linkedin.com/in/rozelma-soares-de-fran%C3%A7a-5bb28b38/
       email: rozelma.franca@ufrpe.br
       image: /img/rozelma.gif
+    - name: Taciana Pontual Falcão
+      text: "Professora adjunta do Departamento de Computação da Universidade Federal
+        Rural de Pernambuco (UFRPE), onde também atuou como coordenadora do
+        curso de Licenciatura em Computação da UFRPE (2018-2020) e preside a
+        Comissão de Ensino do departamento desde 2018. É bacharela (2004) e
+        mestre (2007) em Ciência da Computação pela Universidade Federal de
+        Pernambuco – UFPE, e doutora pela University of London (Institute of
+        Education, 2014), em tecnologias educacionais. Fez pós-doutorado na
+        McGill University, School of Information Studies (Canadá, 2017), na área
+        de tecnologias assistivas. Faz parte dos programas de pós-graduação em
+        Informática Aplicada (PPGIA) e Tecnologia e Gestão em Educação a
+        Distância (PPGTEG), ambos na UFRPE. É editora associada da Revista
+        Brasileira de Informática na Educação (RBIE) e representante das
+        Américas Central e do Sul no corpo de consultores do British Journal of
+        Educational Technology (BJET). Faz parte do DEMULTS desde 2013. Sua
+        pesquisa é focada na aplicação de tecnologias aos processos
+        educacionais, incluindo: educação em computação, pensamento
+        computacional, interação humano-computador, acessibilidade e analíticas
+        de aprendizagem."
+      lattes: "CV: http://lattes.cnpq.br/5706959249737319"
+      email: taciana.pontual@ufrpe.br
+      site: http://www.tacianapontual.com.br
+      linkedin: http://www.tacianapontual.com.br
+      image: /img/taciana.gif
   heading: Pesquisadores
   description: desc
 testimonials:
