@@ -125,9 +125,9 @@ intro:
 
         Viajar, cozinhar, decorar o meu refúgio ~ lar ~ e, mais recentemente, bordar :)
       lattes: "CV: http://lattes.cnpq.br/4282789732521235"
-      site: https://demults-site.netlify.app/
-      linkedin: https://demults-site.netlify.app/
-      email: rozelma.franca@ufrpe.b
+      site: https://www.falecomrozelma.com/
+      linkedin: https://www.linkedin.com/in/rozelma-soares-de-fran%C3%A7a-5bb28b38/
+      email: rozelma.franca@ufrpe.br
       image: /img/rozelma.gif
   heading: Pesquisadores
   description: desc
