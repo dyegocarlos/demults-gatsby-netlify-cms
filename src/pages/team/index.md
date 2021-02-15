@@ -95,6 +95,40 @@ intro:
       email: fernando.rlimajr@gmail.com
       site: https://demults-site.netlify.app
       linkedin: https://demults-site.netlify.app
+    - name: Rozelma Soares de  França
+      text: >-
+        Rozelma Soares de França
+
+        Formação
+
+        Licenciada em Computação pela Universidade de Pernambuco (2012)
+
+        Mestre em Ciência da Computação pela Universidade Federal de Pernambuco (2015)
+
+        Doutora em Ciência da Computação pela Universidade Federal de Pernambuco  (2020)
+
+        Atuação
+
+        Professora Adjunta do Departamento de Educação da Universidade Federal Rural de Pernambuco
+
+        Experiências e Interesses de Pesquisa:
+
+        Tecnologias para a Educação
+
+        Pensamento Computacional
+
+        Formação de professores de Computação  
+
+        Métodos e materiais de apoio ao ensino de Computação na escola
+
+        Hobbies:
+
+        Viajar, cozinhar, decorar o meu refúgio ~ lar ~ e, mais recentemente, bordar :)
+      lattes: "CV: http://lattes.cnpq.br/4282789732521235"
+      site: https://demults-site.netlify.app/
+      linkedin: https://demults-site.netlify.app/
+      email: rozelma.franca@ufrpe.b
+      image: /img/rozelma.gif
   heading: Pesquisadores
   description: desc
 testimonials:
