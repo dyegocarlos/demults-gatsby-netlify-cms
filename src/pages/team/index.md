@@ -172,21 +172,50 @@ intro:
       email: niceiaandrade26@gmail.com
       image: /img/niceia.gif
     - name: Marta Cordeiro da Silva Gomes
-      text: >-
+      text: >
         Marta Cordeiro da Silva Gomes
 
 
         Formação e atuação:
 
 
-        Graduação em Licenciatura em Pedagogia pela Universidade Federal de Pernambuco/Centro Acadêmico do Agreste - UFPE/CAA. Bolsista do Programa de Educação Tutorial - PET do MEC/SESu/DIFES desde 2013. Participa do Grupo de Pesquisa e Estudos sobre Infoinclusão Docente (GPEINFO) Pós-Graduação em Língua Portuguesa e suas Literaturas na Universidade Aberta do Brasil pela Universidade Estadual de Pernambuco/UPE Professora pela Secretaria de Educação do Município de Caruaru nos anos finais do Ensino Fundamental e na Educação de Jovens e Adultos Professora pela Secretaria de Educação do Município de Altinho -PE no anos iniciais do ensino fundamental. Mestranda no Programa de Pós-Graduação em Educação, Culturas e Identidades - PPGECI pela Universidade Federal Rural de Pernambuco - UFRPE. Membro do DEMULTS
+        Graduação em Licenciatura em Pedagogia pela Universidade Federal de Pernambuco/Centro Acadêmico do Agreste - UFPE/CAA. 
 
-        Docente da Educação Básica anos iniciais.
+        Especialização em Língua Portuguesa e suas Literaturas - UPE 
+
+        Mestranda no Programa de Pós-Graduação em Educação, Culturas e Identidades - PPGECI pela Universidade Federal Rural de Pernambuco - UFRPE. 
+
+        Professora pela Secretaria de Educação do Município de Altinho -PE no anos iniciais do ensino fundamental. 
+
+        Membro do DEMULTS
+
+
+        Hobbies:
+
+        Leitura de romances, assistir séries, ir à praia. 
       lattes: http://lattes.cnpq.br/7191901560048030
       image: /img/marta.gif
       site: https://demults-site.netlify.app/
       linkedin: https://www.linkedin.com/feed/
       email: marta.cordeiroufpe@gmail.com
+    - text: >-
+        Antropóloga com experiência na educação básica. 
+
+        Pesquisadora, mediadora de projetos culturais com a perspectiva latino americanista enquanto forma integradora de saberes transdisciplinares. 
+
+        Mestranda em Educação, Cultura e Identidade pela Fundação Joaquim Nabuco. 
+
+
+        De comunicação fácil, curiosa, criativa e colaborativa.
+
+
+        Atua como Doula, circula de bicicleta e adora um forró rabecado.
+      name: Renata Maria Mendes Brasileiro da Silva
+      lattes: " http://lattes.cnpq.br/2805216804045456"
+      site: https://demults-site.netlify.app/
+      linkedin: https://www.linkedin.com/in/renatabrasileiro/
+      email: natabrasileiraa@gmail.com
+      image: /img/renata.gif
   heading: Pesquisadores
   description: desc
 testimonials:
