@@ -58,6 +58,43 @@ intro:
       site: https://www.google.com
       linkedin: https://www.google.com
       email: https://www.google.com
+    - name: Fernando Rodrigues de Lima Júnior
+      text: >-
+        Atuação:
+
+        - Professor do magistério superior vinculado ao curso de Psicologia da Faculdade de Ciências Humanas de Olinda
+
+
+        Formação:
+
+        - Mestre em Educação, Culturas e Identidades pela Universidade Federal Rural de Pernambuco e pela Fundação Joaquim Nabuco
+
+        - Especialista em Ações Interventivas em Psicologia Clínica pela Faculdade de Ciências Humanas de Olinda
+
+        - Bacharel em Psicologia pela Faculdade de Ciências Humanas de Olinda
+
+
+        Experiência e Interesses temáticos:
+
+        - Subjetivação, educação e laço social contemporâneo
+
+        - Adolescência
+
+        - Vivências virtuais com jogos digitais e contemporaneidade
+
+
+        Hobbies:
+
+        - Considero-me um "nerd fã" das vivências de imersão digital proporcionadas por jogos relacionados à simulação de vida e interpretação de personagens
+
+        - Leitor, cinéfilo e jogador de obras que envolvam experiências de fantasia em mundos de magia, especialmente incluindo o universo de Harry Potter e da Terra Média
+
+        - Maratonador de séries e documentários que envolvam conteúdos 
+      lattes: "Currículo Lattes: http://lattes.cnpq.br/2378445308939577"
+      image: /img/servletrecuperafoto.gif
+      email: fernando.rlimajr@gmail.com
+      site: https://demults-site.netlify.app
+      linkedin: https://demults-site.netlify.app
   heading: Pesquisadores
   description: desc
 testimonials:
