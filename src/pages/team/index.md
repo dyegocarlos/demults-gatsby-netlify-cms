@@ -179,9 +179,9 @@ intro:
         Formação e atuação:
 
 
-        Graduação em Licenciatura em Pedagogia pela Universidade Federal de Pernambuco/Centro Acadêmico do Agreste - UFPE/CAA. Bolsista do Programa de Educação Tutorial - PET do MEC/SESu/DIFES desde 2013. Participa do Grupo de Pesquisa e Estudos sobre Infoinclusão Docente (GPEINFO) Pós-Graduação em Língua Portuguesa e suas Literaturas na Universidade Aberta do Brasil pela Universidade Estadual de Pernambuco/UPE Professora pela Secretaria de Educação do Município de Caruaru nos anos finais do Ensino Fundamental e na Educação de Jovens e Adultos Professora pela Secretaria de Educação do Município de Altinho -PE no anos iniciais do ensino fundamental. Mestranda no Programa de Pós-Graduação em Educação, Culturas e Identidades - PPGECI pela Universidade Federal Rural de Pernambuco - UFRPE.
+        Graduação em Licenciatura em Pedagogia pela Universidade Federal de Pernambuco/Centro Acadêmico do Agreste - UFPE/CAA. Bolsista do Programa de Educação Tutorial - PET do MEC/SESu/DIFES desde 2013. Participa do Grupo de Pesquisa e Estudos sobre Infoinclusão Docente (GPEINFO) Pós-Graduação em Língua Portuguesa e suas Literaturas na Universidade Aberta do Brasil pela Universidade Estadual de Pernambuco/UPE Professora pela Secretaria de Educação do Município de Caruaru nos anos finais do Ensino Fundamental e na Educação de Jovens e Adultos Professora pela Secretaria de Educação do Município de Altinho -PE no anos iniciais do ensino fundamental. Mestranda no Programa de Pós-Graduação em Educação, Culturas e Identidades - PPGECI pela Universidade Federal Rural de Pernambuco - UFRPE. Membro do DEMULTS
 
-        Docente da Educação Básica anos iniciais 
+        Docente da Educação Básica anos iniciais.
       lattes: http://lattes.cnpq.br/7191901560048030
       image: /img/marta.gif
       site: https://demults-site.netlify.app/
