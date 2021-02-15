@@ -129,7 +129,7 @@ intro:
       linkedin: https://www.linkedin.com/in/rozelma-soares-de-fran%C3%A7a-5bb28b38/
       email: rozelma.franca@ufrpe.br
       image: /img/rozelma.gif
-    - name: Taciana Pontual Falcão
+    - name: Taciana Pontual da Rocha Falcão
       text: "Professora adjunta do Departamento de Computação da Universidade Federal
         Rural de Pernambuco (UFRPE), onde também atuou como coordenadora do
         curso de Licenciatura em Computação da UFRPE (2018-2020) e preside a
