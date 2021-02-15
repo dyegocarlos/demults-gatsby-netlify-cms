@@ -2,8 +2,8 @@
 heading: Pessoas Pesquisadoras, Orientadoras e Orientandas
 path: /team
 templateKey: team-page
-title: Equipe
-image: /img/captura-de-tela-2020-12-17-às-09.17.20.png
+title: Pessoas Pesquisadoras, Orientadoras e Orientandas
+image: /img/captura-de-tela-2020-12-17-às-09.17.20.png
 description: "O DEMULTS se tornou um ambiente em que as relações se dão para
   além das intenções acadêmicas e profissionais. "
 intro:
@@ -37,7 +37,6 @@ intro:
       site: https://www.google.com
       linkedin: https://www.google.com
       email: https://www.google.com
-      
     - image: /img/tutorials.png
       name: Flávia Peres
       text: >
