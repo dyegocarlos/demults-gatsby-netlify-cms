@@ -153,6 +153,24 @@ intro:
       site: http://www.tacianapontual.com.br
       linkedin: http://www.tacianapontual.com.br
       image: /img/taciana.gif
+    - name: Nicéia Andrade da Silva
+      text: >+
+        FORMAÇÃO: Mestre em Educação, Culturas e Identidades (UFRPE/FUNDAJ);
+        Especialista em Programação de Ensino em Literaturas de Expressão
+        Portuguesa (FAINTVISA, 2000); Graduada e Licenciada em Letras (UPE,
+        1990)
+
+        ATUAÇÃO: Professora da Secretaria de Educação do Estado de Pernambuco; Membro de Grupos de Pesquisa: Desenvolvimento Educacional de Multimídias Sustentáveis (DEMULTS - UFRPE) e Transculturalismo Crítico,Diversidade Cultural e Educação (GTRANSCRI - UFRPE/FUNDAJ)
+
+        ÁREA DE PESQUISA: Educação e Educação do Campo. 
+
+        HOBBIES: Viajar, ir à praia, assistir a filmes e séries, ler livros e revistas sobre educação, literatura, política, religião e comédia.
+
+      lattes: http://lattes.cnpq.br/3302370550611244
+      site: https://demults-site.netlify.app/
+      linkedin: https://demults-site.netlify.app/
+      email: niceiaandrade26@gmail.com
+      image: /img/niceia.gif
   heading: Pesquisadores
   description: desc
 testimonials:
