@@ -15,8 +15,8 @@ main:
   image3:
     image: /img/products-grid2.jpg
     alt: "imagem de uma xicara verde com cafe em uma mesa de madeira "
-  description: ...
-  heading: ....
+  description: ---
+  heading: ---
   image1:
     image: /img/obra-mac-notícias-de-terreiro-abdias-do-nascimento.jpeg
     alt: "imagem de uma sereia com dois peixes, ilustração  de Abdias do nascimento
@@ -28,6 +28,6 @@ artfacts:
   heading: Artefato do projeto
   description: "artefato elaborado no projeto "
 tags:
-  - "#demunlts"
+  - "#demults"
 ---
 Propõe-se compreender aspectos do processo de desenvolvimento de jogos digitais educacionais para aprendizagem de Linguagem (compreensão de leitura) e Matemática (geometria), e amplia-se a discussão para distintos contextos educacionais latino-americanos: Brasil, Chile e Colômbia. Pretende-se oferecer resultados comparativos que permitam uma escalabilidade da proposta, como metodologia de ensino-aprendizagem com Tecnologias da Comunicação e Informação (TIC´s) no Ensino Médio. Visa-se compreender, ao longo do processo, o jogo de ações discursivas que permitem aos sujeitos o desenvolvimento de competências, abarcando: conhecimentos ligados às áreas curriculares básicas de linguagem e matemática e a conceitos emergentes no século XXI, como os envolvidos no pensamento computacional; habilidades de autonomia, interpessoais, de informação, comunicação e resolução de problemas; procedimentos em TIC´s, utilização de ferramentas e instrumentos requeridos na contemporaneidade, como uso de significados para compreensão do conjunto da sociedade; atitudes grupais complexas, cooperativas, colaborativas, autônomas. Ademais, visa-se verificar-se também os processos identitários que emergem das comunidades de práticas em que os jovens se inserem ao vivenciarem as atividades de desenvolvimento de jogos digitais.

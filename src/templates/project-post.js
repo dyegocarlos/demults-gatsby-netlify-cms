@@ -52,7 +52,10 @@ export const ProjectPostTemplate = ({
               <ProjectPostContent content={content} />
               <h2>Integrantes:</h2>
               <p>{coworkers}</p>
-              <Testimonials testimonials={testimonials} />
+              {testimonials &&
+                <Testimonials testimonials={testimonials} />
+              }
+              {main &&
               <div className="tile is-ancestor">
                   <div className="tile is-vertical">
                     <div className="tile">
@@ -74,9 +77,14 @@ export const ProjectPostTemplate = ({
                     </div>
                   </div>
               </div>
-              <h2>{artfacts.heading}</h2>
-              <p>{artfacts.description}</p>
-              <Artfacts gridItems={artfacts.blurbs} />
+              }
+              {artfacts.blurbs &&
+                <div>
+                  <h2>{artfacts.heading}</h2>
+                  <p>{artfacts.description}</p>
+                  <Artfacts gridItems={artfacts.blurbs} />
+                </div>
+              }
               {tags && tags.length ? (
                 <div style={{ marginTop: `4rem` }}>
                   <h4>Tags</h4>
