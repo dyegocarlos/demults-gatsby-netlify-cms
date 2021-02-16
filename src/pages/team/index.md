@@ -216,6 +216,26 @@ intro:
       linkedin: https://www.linkedin.com/in/renatabrasileiro/
       email: natabrasileiraa@gmail.com
       image: /img/renata.gif
+    - text: |-
+        Mestrado e Doutorado em Psicologia Cognitiva (UFPE). Professora
+        Associada da Universidade Federal Rural de Pernambuco (UFRPE),
+        na Área de Psicologia, do Departamento de Educação. Professora do
+        Programa de Pós-Graduação em Educação, Culturas e Identidades
+        (UFRPE/FUNDAJ), com pesquisas relacionadas a tecnologias digitais
+        e subjetivação, produção de sentidos com tecnologia em territórios
+        diversos, psicologia rural e educação do campo. Integrante do time
+        de pesquisadores do COGNVOX (software psicopedagógico voltado
+        para o desenvolvimento de crianças e adolescentes com deficiência
+        intelectual). Líder do grupo de pesquisa DEMULTS –
+        Desenvolvimento Educacional de Multimídias Sustentáveis.
+        Nas horas livres, gosto de ler livros de ficção científica, ver filmes e
+        praticar o bordado manual.
+      name: Flávia Mendes de Andrade e Peres
+      image: /img/flávia.jpg
+      lattes: http://lattes.cnpq.br/2493398194909644
+      site: https://demults-site.netlify.app/
+      linkedin: https://demults-site.netlify.app/
+      email: peres.flavia@gmail.com
   heading: Pesquisadores
   description: desc
 testimonials:
