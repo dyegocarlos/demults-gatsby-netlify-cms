@@ -42,7 +42,12 @@ description: "Na realidade brasileira, como em outros contextos latino
   integrado às políticas de educação do campo locais.."
 featuredpost: true
 featuredimage: /img/blog-index.jpg
-coworkers: "Dyego, Flavia, Taciana .. "
+coworkers: >
+  Flávia Mendes de Andrade e Peres - Coordenador / Dyego Morais - Integrante /
+  Taciana Pontual - Integrante / Rozelma França - Integrante / Niceia Andrade da
+  Silva - Integrante / Fernando Rodrigues - Integrante.
+
+  2018 - Atual
 main:
   heading: FOTO1
   description: ok
