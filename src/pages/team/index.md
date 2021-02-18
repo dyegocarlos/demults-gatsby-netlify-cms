@@ -62,10 +62,12 @@ intro:
       text: >-
         Atuação:
 
-        - Professor do magistério superior vinculado ao curso de Psicologia da Faculdade de Ciências Humanas de Olinda
+        - Professor do magistério superior vinculado ao Departamento de Psicologia da Faculdade de Ciências Humanas de Olinda
 
 
         Formação:
+
+        - Doutorando em Psicologia Clínica pela Universidade Católica de Pernambuco
 
         - Mestre em Educação, Culturas e Identidades pela Universidade Federal Rural de Pernambuco e pela Fundação Joaquim Nabuco
 
@@ -76,11 +78,11 @@ intro:
 
         Experiência e Interesses temáticos:
 
-        - Subjetivação, educação e laço social contemporâneo
+        - a subjetivação e a passagem adolescente
 
-        - Adolescência
+        - identificação e processos subjetivos no espaço-tempo tecnológico-digital contemporâneo
 
-        - Vivências virtuais com jogos digitais e contemporaneidade
+        - subjetivação, laços sociais e vivências virtuais-digitais na educação
 
 
         Hobbies:
