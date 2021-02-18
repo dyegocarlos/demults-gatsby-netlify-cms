@@ -6,7 +6,7 @@ import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
 
-const logo = '../img/logo.svg'
+const logo = '../img/logo-new.svg'
 
 const TemplateWrapper = ({ children }) => {
   const { title, description } = useSiteMetadata()

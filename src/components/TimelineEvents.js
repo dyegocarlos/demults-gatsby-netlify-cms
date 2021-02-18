@@ -3,6 +3,7 @@ import PropTypes from 'prop-types'
 import { v4 } from 'uuid'
 import { Link, graphql, StaticQuery } from 'gatsby'
 
+import quote from '../img/quote.svg'
 
 class TimelineEvents extends React.Component {
     render() {
@@ -37,7 +38,7 @@ class TimelineEvents extends React.Component {
                             <div className="timeline-item">
                             {arr[i].prize ? (
                                 <div class="timeline-marker is-image is-32x32 prize">
-                                    <img src="https://bulma.io/images/placeholders/32x32.png" />
+                                    <img src={quote} />
                                 </div>
                             ) : (
                                 <div className="timeline-marker"></div>
