@@ -46,7 +46,7 @@ class TimelineEvents extends React.Component {
                                 <div className="timeline-content">
                                     <Link to={item.link} className="txt-dark hover-blue">
                                         <p className="heading is-size-5	">{item.titlepub}</p>
-                                        <p className="heading is-size-3	">{item.event}</p>
+                                        <p className="text-gray has-text-weight-medium is-size-6">{item.event}</p>
                                         <p className="">{item.bib}</p>
                                         {item.link &&
                                             <a href={item.link} className="btn is-size-7">acessar</a>
