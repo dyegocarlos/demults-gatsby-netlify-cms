@@ -37,7 +37,7 @@ intro:
       site: https://www.google.com
       linkedin: https://www.google.com
       email: https://www.google.com
-    - image: /img/tutorials.png
+    - image: /img/marta.jpeg
       name: Flávia Peres
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
