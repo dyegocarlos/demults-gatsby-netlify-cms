@@ -130,6 +130,7 @@ collections:
           - {label: Image, name: image, widget: image}
           - {label: TimelineEvents, name: timelineEvents, widget: list, fields: [
             {label: Year, name: year, widget: number},
+            {label: "Title Publication", name: titlepub, widget: string},
             {label: Event, name: event, widget: string},
             {label: Bib, name: bib, widget: string},
             {label: Prize, name: prize, required: false, widget: boolean},

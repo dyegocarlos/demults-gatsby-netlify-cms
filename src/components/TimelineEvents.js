@@ -45,7 +45,8 @@ class TimelineEvents extends React.Component {
                             )}
                                 <div className="timeline-content">
                                     <Link to={item.link} className="txt-dark hover-blue">
-                                        <p className="heading is-size-5	">{item.event}</p>
+                                        <p className="heading is-size-5	">{item.titlepub}</p>
+                                        <p className="heading is-size-3	">{item.event}</p>
                                         <p className="">{item.bib}</p>
                                         {item.link &&
                                             <a href={item.link} className="btn is-size-7">acessar</a>
@@ -72,6 +73,7 @@ TimelineEvents.propTypes = {
                         PropTypes.shape({
                             year: PropTypes.number,
                             event: PropTypes.string,
+                            titlepub: PropTypes.string,
                             bib: PropTypes.string,
                             link: PropTypes.string,
                             prize: PropTypes.boolean
@@ -103,6 +105,7 @@ export default () => (
                                 templateKey
                                 timelineEvents {
                                     bib
+                                    titlepub
                                     event
                                     link
                                     year

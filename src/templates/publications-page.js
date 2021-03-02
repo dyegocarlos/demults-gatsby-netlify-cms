@@ -89,6 +89,7 @@ export const publicationsPageQuery = graphql`
         }
         timelineEvents {
           year
+          titlepub
           event
           bib
           link
