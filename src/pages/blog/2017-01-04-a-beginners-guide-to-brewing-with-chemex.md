@@ -6,7 +6,7 @@ description: Compreender as configurações contextuais que favorecem o processo
   de ensino-aprendizagem e o desenvolvimento do Pensamento Computacional em suas
   diferentes concepções e aplicações.
 featuredpost: true
-featuredimage: /img/headway-jfr5wu2hmi0-unsplash.jpg
+featuredimage: /img/demults-comparado-12.jpg
 tags:
   - PensamentoComputacional
   - EducaçãoemComputação
@@ -15,7 +15,7 @@ O Pensamento Computacional (PC) tem ganhado destaque como uma habilidade essenci
 
 Além dessas questões conceituais e metodológicas, o movimento a favor da inclusão do PC na educação básica, que já encontra algum respaldo na Base Nacional Comum Curricular, traz também a necessidade de se repensar a formação de professores, o currículo das licenciaturas, e o papel do(a) licenciado(a) em computação.
 
-![programadores](/img/headway-jfr5wu2hmi0-unsplash.jpg)
+![programadores](/img/demults-comparado-12.jpg)
 
 **Palavras-chave:**
 
@@ -33,7 +33,5 @@ Além dessas questões conceituais e metodológicas, o movimento a favor da incl
 * Educação superior
 * Educação profissional de nível técnico e tecnológico
 * Educação infantil e ensino fundamental
-
-
 
 **Integrantes:** Taciana Pontual, Rozelma França, Bárbara Morais
