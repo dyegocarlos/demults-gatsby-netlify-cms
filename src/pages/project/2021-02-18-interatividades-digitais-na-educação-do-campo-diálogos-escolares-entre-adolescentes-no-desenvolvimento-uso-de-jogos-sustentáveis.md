@@ -19,27 +19,7 @@ description: "Na realidade brasileira, como em outros contextos latino
   Com base em uma abordagem histórico cultural em psicologia, organiza-se a
   pesquisa participante, com aplicação da metodologia DEMULTS (Desenvolvimento
   Educacional de Multimídias Sustentáveis) em duas escolas da zona rural de
-  Vicência-PE, orientadas pela educação do campo. A proposta objetiva
-  compreender aspectos do processo de desenvolvimento de jogos digitais com a
-  participação de educandos do ensino fundamental II, de duas escolas do
-  município em foco, que favorecem a aprendizagem de conceitos para
-  sustentabilidade e transformação social. Especificamente, pretende verificar
-  as relações dialógicas evidenciadas entre o momento do desenvolvimento e o
-  momento do uso dos artefatos digitais produzidos pelos educandos. Serão
-  detalhados os aspectos cognitivos e sócio-afetivos que permitem aos sujeitos
-  participantes do projeto, o desenvolvimento de jogos digitais educacionais e
-  as implicações dessa participação sobre a aprendizagem escolar. Utiliza-se
-  instrumentos da etnografia para construção dos dados, como entrevistas
-  estruturadas e semi estruturadas, diários de campo, videografia e capturas de
-  registros diversos (escritos e imagéticos produzidos pelos participantes em
-  meios impressos e digitais). Para a análise interacional, os campos semióticos
-  (fala, gesto, registros e artefatos) são considerados em suas configurações
-  contextuais e integrados de modo dinâmico ao longo do processo. A proposta
-  contribui para uma possível prática social com o uso de tecnologias nas
-  escolas do campo, acrescentando às pesquisas anteriores do DEMULTS um modelo
-  para o nível do ensino fundamental, que se estabelece como uma rede dialógica
-  entre as escolas participantes, que possa ser reaplicado em um âmbito maior,
-  integrado às políticas de educação do campo locais.."
+  Vicência-PE, orientadas pela educação do campo. "
 featuredpost: true
 featuredimage: /img/blog-index.jpg
 coworkers: >
@@ -67,4 +47,4 @@ tags:
   - DEMULTS
   - EDUÇÀO DO CAMPO
 ---
-adcionar algo
+A proposta objetiva compreender aspectos do processo de desenvolvimento de jogos digitais com a participação de educandos do ensino fundamental II, de duas escolas do município em foco, que favorecem a aprendizagem de conceitos para sustentabilidade e transformação social. Especificamente, pretende verificar as relações dialógicas evidenciadas entre o momento do desenvolvimento e o momento do uso dos artefatos digitais produzidos pelos educandos. Serão detalhados os aspectos cognitivos e sócio-afetivos que permitem aos sujeitos participantes do projeto, o desenvolvimento de jogos digitais educacionais e as implicações dessa participação sobre a aprendizagem escolar. Utiliza-se instrumentos da etnografia para construção dos dados, como entrevistas estruturadas e semi estruturadas, diários de campo, videografia e capturas de registros diversos (escritos e imagéticos produzidos pelos participantes em meios impressos e digitais). Para a análise interacional, os campos semióticos (fala, gesto, registros e artefatos) são considerados em suas configurações contextuais e integrados de modo dinâmico ao longo do processo. A proposta contribui para uma possível prática social com o uso de tecnologias nas escolas do campo, acrescentando às pesquisas anteriores do DEMULTS um modelo para o nível do ensino fundamental, que se estabelece como uma rede dialógica entre as escolas participantes, que possa ser reaplicado em um âmbito maior, integrado às políticas de educação do campo locais.
