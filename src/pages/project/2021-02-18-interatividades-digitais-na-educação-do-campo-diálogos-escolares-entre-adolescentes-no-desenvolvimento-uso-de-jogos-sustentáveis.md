@@ -1,7 +1,7 @@
 ---
 templateKey: project-post
 image: /img/captura-de-tela-2020-12-17-às-09.17.20.png
-title: "INTERATIVIDADES DIGITAIS NA EDUCAÇÃO DO CAMPO: Diálogos escolares entre
+title: "Interatividades Digitais na Educação do Campo: Diálogos escolares entre
   adolescentes no desenvolvimento-uso de jogos sustentáveis"
 date: 2019-04-10T11:18:46.353Z
 description: 2019-2020
@@ -23,7 +23,7 @@ main:
     image: /img/chemex.jpg
     alt: cafe
   image3:
-    image: /img/apple-touch-icon.png
+    image: /img/img_20200309_133648-cópia.jpg
     alt: xicara
 artfacts:
   heading: artefato
