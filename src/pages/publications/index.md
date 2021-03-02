@@ -86,5 +86,16 @@ timelineEvents:
     link: https://www.sbc.org.br/2-uncategorised/2034-desenvolvimento-educacional-de-multimidias-sustentaveis
     prize: true
     bib: Projeto DEMULTS recebe chancela da Sociedade Brasileira de Computação (SBC)
+  - year: 2017
+    prize: true
+    event: Menção Honrosa no Concurso Alexandre Direne de Teses, Dissertações e TCCs
+      em Informática na Educação - Dissertações de Mestrado
+    link: https://www.br-ie.org/pub/index.php/wcbie/article/view/7366
+    bib: "MORAIS, Dyego; PONTUAL, Taciana; SOUZA, Fernando da Fonseca de. MODELO DE
+      DESENVOLVIMENTO PARTICIPATIVO DE JOGOS DIGITAIS EDUCACIONAIS NO CONTEXTO
+      ESCOLAR. Anais dos Workshops do Congresso Brasileiro de Informática na
+      Educação, [S.l.], p. 68, out. 2017. ISSN 2316-8889. Disponível em:
+      <https://www.br-ie.org/pub/index.php/wcbie/article/view/7366>. Acesso em:
+      02 mar. 2021. doi: http://dx.doi.org/10.5753/cbie.wcbie.2017.68."
 ---
 Área reservada para publicações e premiações relativas a trabalhos realizados no escopo do grupo de pesquisa.

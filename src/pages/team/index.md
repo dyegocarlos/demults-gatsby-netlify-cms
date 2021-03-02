@@ -17,7 +17,7 @@ intro:
       site: https://www.google.com
       linkedin: https://www.google.com
       email: https://www.google.com
-    - image: /img/coffee.png
+    - image: /img/eu.png
       name: Dyego Carlos
       text: Licenciado, Mestre e Doutorando em Ciência da Computação. Participa do
         DEMULTS desde sua criação em 2012 investigando processos participativos
@@ -26,7 +26,7 @@ intro:
       site: https://www.google.com
       linkedin: https://www.google.com
       email: https://www.google.com
-    - image: /img/coffee-gear.png
+    - image: /img/taciana.jpg
       name: Taciana Pontual Rocha
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -37,7 +37,7 @@ intro:
       site: https://www.google.com
       linkedin: https://www.google.com
       email: https://www.google.com
-    - image: /img/tutorials.png
+    - image: /img/marta.jpeg
       name: Flávia Peres
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
