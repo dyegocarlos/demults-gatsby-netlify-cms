@@ -2,6 +2,11 @@ import React from 'react'
 import { navigate } from 'gatsby-link'
 import Layout from '../../components/Layout'
 
+import facebook from '../../img/social/facebook.svg'
+import instagram from '../../img/social/instagram.svg'
+import mail from '../../img/social/mail.svg'
+import linkedin from '../../img/social/linkedin.svg'
+
 function encode(data) {
   return Object.keys(data)
     .map((key) => encodeURIComponent(key) + '=' + encodeURIComponent(data[key]))
@@ -36,11 +41,13 @@ export default class Index extends React.Component {
   render() {
     return (
       <Layout>
-        <section className="section">
+        <section className="section contact">
           <div className="container">
             <div className="content">
-              <h1>Contato</h1>
+              <h1 className="is-12">Contato</h1>
+              <div className="columns">
               <form
+                className="column is-9"
                 name="contact"
                 method="post"
                 action="/contact/thanks/"
@@ -106,6 +113,47 @@ export default class Index extends React.Component {
                   </button>
                 </div>
               </form>
+              <div className="is-3 pl-4 mt-4">
+                <p>
+                  <span className="is-block has-text-weight-bold txt-dark">Departamento de Educação</span>
+                  <span className="is-block mb-1 text-gray has-text-weight-bold">Universidade Federal Rural de Pernambuco</span>
+                  Rua Dom Manuel de Medeiros, s/n <br />
+                  Dois Irmãos - Recife/PE <br />
+                  CEP: 52171-900
+                </p>
+                <div className="social">
+                  <a title="facebook" href="https://facebook.com">
+                    <img
+                      src={facebook}
+                      alt="Facebook"
+                      style={{ width: '1em', height: '1em' }}
+                    />
+                  </a>
+                  <a title="mail" href="mailto:demults.ufrpe@gmail.com">
+                    <img
+                      className="fas fa-lg"
+                      src={mail}
+                      alt="mail"
+                      style={{ width: '1em', height: '1em' }}
+                    />
+                  </a>
+                  <a title="instagram" href="https://instagram.com">
+                    <img
+                      src={instagram}
+                      alt="Instagram"
+                      style={{ width: '1em', height: '1em' }}
+                    />
+                  </a>
+                  <a title="linkedin" href="https://linkedin.com">
+                    <img
+                      src={linkedin}
+                      alt="linkedin"
+                      style={{ width: '1em', height: '1em' }}
+                    />
+                  </a>
+                </div>
+              </div>
+              </div>
             </div>
           </div>
         </section>
