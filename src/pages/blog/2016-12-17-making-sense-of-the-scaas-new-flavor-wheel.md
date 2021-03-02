@@ -8,7 +8,7 @@ description: >
   consequência da ação de sujeitos em atividades de desenvolvimento ou uso de
   artefatos digitais.
 featuredpost: true
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/img_20200309_133648.jpg
 tags:
   - psicologia
   - IHC
