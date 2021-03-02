@@ -41,5 +41,21 @@ timelineEvents:
       universidades
     link: https://www.br-ie.org/pub/index.php/sbie/article/view/5307
     prize: true
+  - year: 2018
+    bib: " MORAIS, D. C. S.; PONTUAL FALCÃO, TACIANA . Abordagem Participativa de
+      Desenvolvimento de Jogos Digitais Educacionais no Contexto Escolar.
+      REVISTA BRASILEIRA DE INFORMÁTICA NA EDUCAÇÃO, v. 27, p. 132-153, 2019."
+    event: RBIE - Revista Brasileira de Informática na Educação
+    link: https://www.br-ie.org/pub/index.php/rbie/article/view/7790
+    prize: true
+  - bib: 'MORAIS, DYEGO; PONTUAL, TACIANA . "Today Is So Cool Nobody Wants to
+      Leave": What Makes Teenagers Engaged in Developing Educational Games at
+      School?. In: XXVIII Simpósio Brasileiro de Informática na Educação SBIE
+      (Brazilian Symposium on Computers in Education), 2017, Recife.
+      org.crossref.xschema._1.Title@6ad47f77, 2017. p. 807.'
+    year: 2017
+    event: XXVIII Simpósio Brasileiro de Informática na Educação (SBIE)
+    link: https://www.br-ie.org/pub/index.php/sbie/article/view/7609
+    prize: true
 ---
 Área reservada para publicações e premiações relativas a trabalhos realizados no escopo do grupo de pesquisa.
