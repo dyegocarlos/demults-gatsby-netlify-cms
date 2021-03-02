@@ -1,8 +1,8 @@
 ---
 templateKey: project-post
 image: /img/captura-de-tela-2020-12-17-às-09.17.20.png
-title: ESTUDO COMPARATIVO DIALÓGICO DE UM PROGRAMA TRANSNACIONAL DE
-  DESENVOLVIMENTO DE JOGOS DIGITAIS POR ESTUDANTES DO ENSINO MÉDIO
+title: Estudo Comparativo dialógico de um Programa Transnacional de
+  Desenvolvimento de Jogos Digitais por Estudantes do Ensino Médio
 date: 2015-02-15T12:48:00.000Z
 description: 2015-2016
 featuredpost: true
