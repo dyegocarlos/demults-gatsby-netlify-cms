@@ -26,7 +26,7 @@ intro:
       site: https://www.google.com
       linkedin: https://www.google.com
       email: https://www.google.com
-    - image: /img/coffee-gear.png
+    - image: /img/taciana.jpg
       name: Taciana Pontual Rocha
       text: >
         We offer a small, but carefully curated selection of brewing gear and
