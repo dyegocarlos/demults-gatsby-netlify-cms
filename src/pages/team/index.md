@@ -17,7 +17,7 @@ intro:
       site: https://www.google.com
       linkedin: https://www.google.com
       email: https://www.google.com
-    - image: /img/coffee.png
+    - image: /img/servletrecuperafoto.jpg
       name: Dyego Carlos
       text: Licenciado, Mestre e Doutorando em Ciência da Computação. Participa do
         DEMULTS desde sua criação em 2012 investigando processos participativos
