@@ -47,7 +47,7 @@ timelineEvents:
       REVISTA BRASILEIRA DE INFORMÁTICA NA EDUCAÇÃO, v. 27, p. 132-153, 2019."
     event: RBIE - Revista Brasileira de Informática na Educação
     link: https://www.br-ie.org/pub/index.php/rbie/article/view/7790
-    prize: true
+    prize: false
   - bib: 'MORAIS, DYEGO; PONTUAL, TACIANA . "Today Is So Cool Nobody Wants to
       Leave": What Makes Teenagers Engaged in Developing Educational Games at
       School?. In: XXVIII Simpósio Brasileiro de Informática na Educação SBIE
