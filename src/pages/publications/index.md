@@ -57,5 +57,18 @@ timelineEvents:
     event: XXVIII Simpósio Brasileiro de Informática na Educação (SBIE)
     link: https://www.br-ie.org/pub/index.php/sbie/article/view/7609
     prize: false
+  - bib: "MORAIS, D. C. S.; GOMES, T. C. S. . Análise da aprendizagem no processo de
+      desenvolvimento de games educacionais apoiado no design participativo. In:
+      IV Simpósio Hipertexto e Tecnologias na Educação, 2012, Recife.
+      Comunidades e aprendizagem em rede, 2012."
+    year: 2012
+    event: IV Simpósio Hipertexto e Tecnologias na Educação
+    link: https://issuu.com/simposiohipertexto/docs/resumos-simposio2012
+  - bib: "MORAIS, D. C. S.; FALCAO, T. P. . Processos Participativos de
+      Desenvolvimento de Jogos Digitais em Contextos Escolares. In: 4º DesafIE -
+      Workshop de Desafios da Computação Aplicada à Educação, 2015, Recife. XXXV
+      Congresso da Sociedade Brasileira de Computação, 2015."
+    year: 2015
+    event: 4º DesafIE - Workshop de Desafios da Computação Aplicada à Educação
 ---
 Área reservada para publicações e premiações relativas a trabalhos realizados no escopo do grupo de pesquisa.
