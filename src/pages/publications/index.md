@@ -5,7 +5,7 @@ title: Prêmios e Publicações
 image: /img/captura-de-tela-2020-12-17-às-09.17.20.png
 timelineEvents:
   - year: 2020
-    event: asfasf
+    event: SBIE - SIMPÓSIO BRASILEIRO DE INFORMÁTICA NA EDUCAÇÃO
     bib: "PERES, Flavia; MORAIS, Dyego; QUEIROZ, Shany; SANTANA, Bruno.
       Desenvolvimento de Artefatos Digitais por Estudantes na Educação do Campo:
       Uma Pesquisa-Ação em Comunidades de Prática. In: SIMPÓSIO BRASILEIRO DE
@@ -30,10 +30,11 @@ timelineEvents:
       Educação - SBIE), [S.l.], p. 529, out. 2015. ISSN 2316-6533."
     link: https://www.br-ie.org/pub/index.php/sbie/article/view/5307
     prize: false
-  - year: 2015
-    event: evento test
-    bib: bibliografiabibliografiabibliografiabibliografiabibliografiabibliografiabibliografia
-    link: https://www.br-ie.org/pub/index.php/sbie/article/view/5307
+  - year: 2021
+    event: EDUCOMP
+    bib: Uma Análise da Emergência de Pensamento Computacional em Práticas de
+      Desenvolvimento de Jogos Digitais na Educação do Campo
+    link: ""
     prize: false
   - year: 2016
     event: Prêmio Santander
