@@ -56,6 +56,6 @@ timelineEvents:
     year: 2017
     event: XXVIII Simpósio Brasileiro de Informática na Educação (SBIE)
     link: https://www.br-ie.org/pub/index.php/sbie/article/view/7609
-    prize: true
+    prize: false
 ---
 Área reservada para publicações e premiações relativas a trabalhos realizados no escopo do grupo de pesquisa.
