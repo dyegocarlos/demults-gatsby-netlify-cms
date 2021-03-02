@@ -36,11 +36,11 @@ timelineEvents:
       Desenvolvimento de Jogos Digitais na Educação do Campo
     link: ""
     prize: false
-  - year: 2016
-    event: Prêmio Santander
-    bib: Segundo lugar na categoria melhor grupo de pesquisa do prêmio santander
-      universidades
-    link: https://www.br-ie.org/pub/index.php/sbie/article/view/5307
+  - year: 2012
+    event: Prêmio Santander de Ciência e Inovação
+    bib: Primeiro Lugar Norte - Nordeste - Centro-Oeste na Categoria Tecnologias da
+      Informação, Comunicação e Educação
+    link: ""
     prize: true
   - year: 2018
     bib: " MORAIS, D. C. S.; PONTUAL FALCÃO, TACIANA . Abordagem Participativa de
@@ -71,5 +71,10 @@ timelineEvents:
       Congresso da Sociedade Brasileira de Computação, 2015."
     year: 2015
     event: 4º DesafIE - Workshop de Desafios da Computação Aplicada à Educação
+  - year: 2017
+    event: Chancela Sociedade Brasileira de Computação (SBC)
+    link: https://www.sbc.org.br/2-uncategorised/2034-desenvolvimento-educacional-de-multimidias-sustentaveis
+    prize: true
+    bib: Projeto DEMULTS recebe chancela da Sociedade Brasileira de Computação (SBC)
 ---
 Área reservada para publicações e premiações relativas a trabalhos realizados no escopo do grupo de pesquisa.
