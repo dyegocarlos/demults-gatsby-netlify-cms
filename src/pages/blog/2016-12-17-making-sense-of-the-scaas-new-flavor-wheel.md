@@ -14,11 +14,13 @@ tags:
   - Educação
   - InformáticanaEducação
 ---
+
+
 ![pratica](/img/img_20200309_133648.jpg)
 
-O Pensamento Computacional (PC) tem ganhado destaque como uma habilidade essencial para qualquer cidadã(o). De maneira geral, o PC é considerado como uma forma de raciocínio sistemático para resolução eficaz e eficiente de problemas, sejam eles científicos ou cotidianos. Entretanto, ainda não se tem uma definição consensual do termo, ou métodos consolidados para desenvolvimento e avaliação do PC. Existem várias perspectivas sobre o PC, das mais focadas em aspectos cognitivos, até aquelas que incluem aspectos contextuais, sociais e políticos. O PC pode ser visto não apenas como uma ferramenta cognitiva para resolução de problemas, mas também como uma ferramenta que pode aumentar a autonomia e a participação social e política.
+Nesta linha de pesquisa, pensamos e estudamos a educação, imbuída de seus processos psíquicos, cognitivos e afetivos, como ação de subjetivação humana que, por sua vez, demanda da cultura a própria condição de emergência. Tomamos por referência a condição interrelacional e socioafetiva da educação, em seus diversos campos interativos, institucionalizados ou não, para, criticamente, pensá-la no laço social contemporâneo que vem implicando a relação do humano com as tecnologias digitais, quer como um meio de especulação narcísica, quer como possibilitadoras ao sujeito de um ato inventivo-criativo de si e do mundo na relação com os pares e outros sociais. Dessa forma, respaldamo-nos na necessidade de, através de um discurso intercientífico e transdisciplinar, próximos às inquietações epistêmicas e sociais da psicologia histórico-cultural e da psicanálise, construir conhecimento científico e crítico-reflexivo acerca das possibilidades de articulação entre a subjetivação, a educação e as tecnologias digitais, focalizando, em nossos processos de pesquisa, o sujeito em suas interfaces relacionais consigo, com os outros e com os objetos de sua cultura. 
 
-Além dessas questões conceituais e metodológicas, o movimento a favor da inclusão do PC na educação básica, que já encontra algum respaldo na Base Nacional Comum Curricular, traz também a necessidade de se repensar a formação de professores, o currículo das licenciaturas, e o papel do(a) licenciado(a) em computação.
+Os estudos nesta linha, metodologicamente inspirados no modelo de pesquisa participante (pesquisa-ação e pesquisa intervenção), ramificam-se por estas principais afinidades temáticas, considerando a atividade subjetiva demarcada pelo sujeito na interação, mediante o desenvolvimento e uso de artefatos digitais: aprendizagens contemporâneas mediatizadas por tecnologias digitais • educação como processo de subjetivação humana diante das interfaces tecnológico-digitais • laço social e processos educativos na cena digital em transformação na contemporaneidade.
 
 
 
