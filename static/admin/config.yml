@@ -132,6 +132,6 @@ collections:
             {label: Year, name: year, widget: number},
             {label: Event, name: event, widget: string},
             {label: Bib, name: bib, widget: string},
-            {label: Prize, name: prize, widget: boolean},
-            {label: Link, name: link, widget: string}]}
+            {label: Prize, name: prize, required: false, widget: boolean},
+            {label: Link, name: link, required: false, widget: string}]}
           - {label: "Body", name: "body", widget: "markdown"}
