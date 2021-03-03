@@ -177,11 +177,12 @@ intro:
       linkedin: https://www.linkedin.com/feed/
       email: marta.cordeiroufpe@gmail.com
     - text: >-
-        Antropóloga com experiência na educação básica. 
+        Bacharel em Antropóloga e Diversidade Cultural Latino Americana pela
+        Universidade Federal da Integração latino-americana - UNILA. 
 
         Pesquisadora, mediadora de projetos culturais com a perspectiva latino americanista enquanto forma integradora de saberes transdisciplinares. 
 
-        Mestranda em Educação, Cultura e Identidade pela Fundação Joaquim Nabuco. 
+        Mestranda em Educação, Culturas e Identidades no PPGECI. Especialista em Design Educacional pelo Instituto Federal do Espirito Santo - IFES. Trabalha como Design de Produto na ClickBus. 
 
 
         De comunicação fácil, curiosa, criativa e colaborativa.
@@ -192,7 +193,7 @@ intro:
       lattes: " http://lattes.cnpq.br/2805216804045456"
       site: https://demults-site.netlify.app/
       linkedin: https://www.linkedin.com/in/renatabrasileiro/
-      email: natabrasileiraa@gmail.com
+      email: renata.brasileiro@yahoo.com
       image: /img/renata.gif
     - text: |-
         Mestrado e Doutorado em Psicologia Cognitiva (UFPE). Professora
