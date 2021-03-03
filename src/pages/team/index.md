@@ -161,7 +161,7 @@ intro:
 
         Leitura de romances, assistir séries, ir à praia. 
       lattes: http://lattes.cnpq.br/7191901560048030
-      image: /img/marta.gif
+      image: /img/marta.jpeg
       site: https://demults-site.netlify.app/
       linkedin: https://www.linkedin.com/feed/
       email: marta.cordeiroufpe@gmail.com
