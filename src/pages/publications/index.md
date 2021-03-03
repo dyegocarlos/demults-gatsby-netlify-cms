@@ -78,12 +78,6 @@ timelineEvents:
       Contextos Escolares.
     event: 4º DesafIE - Workshop de Desafios da Computação Aplicada à Educação
   - year: 2017
-    titlepub: testando titulo
-    event: Chancela Sociedade Brasileira de Computação (SBC)
-    link: https://www.sbc.org.br/2-uncategorised/2034-desenvolvimento-educacional-de-multimidias-sustentaveis
-    prize: true
-    bib: Projeto DEMULTS recebe chancela da Sociedade Brasileira de Computação (SBC)
-  - year: 2017
     titlepub: MODELO DE DESENVOLVIMENTO PARTICIPATIVO DE JOGOS DIGITAIS EDUCACIONAIS
       NO CONTEXTO ESCOLAR
     prize: true
