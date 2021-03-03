@@ -204,6 +204,23 @@ intro:
       site: https://demults-site.netlify.app/
       linkedin: ""
       email: peres.flavia@gmail.com
+    - text: >-
+        Graduação na área de Gestão em Marketing pela IPESU, Graduação em Design
+        Gráfico pela AESO Barros Melo. Professora da Rede Estadual nos Cursos
+        Técnicos em Comunicação Visual. Atualmente no corpo técnico da Escola
+        Técnica Miguel Batista. Cursando MBA em Marketing Digital na ESUDA. 
+
+        Participante voluntaria no grupo de Pesquisa DEMULTS, como Designer atuando junto ao grupo na linha de pesquisa do Design Participativo. Como a Ilustração e o Design podem transformar o individuo. 
+
+        Atuando como profissional na área de criação de Identidade visual, Embalagens, Projetos editorais e Mídias Digitais.
+
+
+        Nas Horas Livres gosto de ilustrar, cultivar cactos, ler sobre a vida e obras de Frida Khalo. Fazer Oficinas de Desenho e Colagens, Amo Fotografia e fazer coisas artesanais utilizando objetos de reutilização.
+      name: LIDIA BORGES VIDIGAL
+      email: "lidiavidigal21@gmail.com "
+      lattes: " http://lattes.cnpq.br/6496230158650924"
+      linkedin: https://www.linkedin.com/in/lidia-vidigal-1b3b57190/
+      image: /img/lidia.jpg
   heading: Pesquisadores
   description: desc
 testimonials: []
