@@ -1,5 +1,5 @@
 ---
-heading: Pessoas Pesquisadoras, Orientadoras e Orientandas
+heading: ""
 path: /team
 templateKey: team-page
 title: Pessoas Pesquisadoras, Orientadoras e Orientandas
