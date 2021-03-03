@@ -194,7 +194,7 @@ intro:
       site: https://demults-site.netlify.app/
       linkedin: https://www.linkedin.com/in/renatabrasileiro/
       email: renata.brasileiro@yahoo.com
-      image: /img/renata.gif
+      image: /img/renatao-jpeg.jpeg
     - text: |-
         Mestrado e Doutorado em Psicologia Cognitiva (UFPE). Professora
         Associada da Universidade Federal Rural de Pernambuco (UFRPE),
