@@ -210,7 +210,7 @@ intro:
         Nas horas livres, gosto de ler livros de ficção científica, ver filmes e
         praticar o bordado manual.
       name: Flávia Mendes de Andrade e Peres
-      image: /img/flávia.jpg
+      image: /img/flávia-jpeg.jpeg
       lattes: http://lattes.cnpq.br/2493398194909644
       site: https://demults-site.netlify.app/
       linkedin: https://demults-site.netlify.app/
