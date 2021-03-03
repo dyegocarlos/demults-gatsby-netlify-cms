@@ -221,6 +221,21 @@ intro:
       lattes: " http://lattes.cnpq.br/6496230158650924"
       linkedin: https://www.linkedin.com/in/lidia-vidigal-1b3b57190/
       image: /img/lidia.jpg
+    - text: >
+        Licenciada em Biologia pela Universidade Federal de
+        Pernambuco-UFPE-(2015), Licencianda em Computação pela Universidade
+        Federal Rural de Pernambuco- UFRPE-(2019.2), Mestranda em Informática
+        Aplicada pela Universidade Federal Rural de Pernambuco-UFRPE-(2020).
+        Atua como técnica em projetos  da educação em prisões da Gerência de
+        Educação de Jovens, Adultos e Idosos- GEJAI- Secretária de Educação do
+        Estado-SEE-PE. Representante da SEE-PE no Fórum Pernambucano de Combate
+        ao Agrotóxico. 
+
+        Hobbies: “Construir casas”, assistir filmes (diversos), cozinhar, ouvir música. 
+      name: Bárbara Silva Morais
+      lattes: " http://lattes.cnpq.br/2325795251461013"
+      email: bebelkinp458@gmail.com
+      image: /img/barbara....jpeg
   heading: Pesquisadores
   description: desc
 testimonials: []
