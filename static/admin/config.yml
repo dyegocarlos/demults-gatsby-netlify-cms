@@ -107,17 +107,17 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "team-page"}
           - {label: Title, name: title, widget: string}
           - {label: Image, name: image, widget: image}
-          - {label: Heading, name: heading, widget: string}
-          - {label: Description, name: description, widget: string}
+          - {label: Heading, name: heading, required: false, widget: string}
+          - {label: Description, name: description, required: false, widget: string}
           - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {
-            label: Blurbs, name: blurbs, widget: list, fields: [
-              {label: Image, name: image, widget: image}, 
+            label: Blurbs, name: blurbs, required: false, widget: list, fields: [
+              {label: Image, name: image, widget: image},
               {label: Name, name: name, widget: string},
-              {label: Text, name: text, widget: text},
-              {label: Lattes, name: lattes, widget: string},
-              {label: Site, name: site, widget: string},
-              {label: Linkedin, name: linkedin, widget: string},
-              {label: email, name: email, widget: string}
+              {label: Text, name: text, required: false, widget: text},
+              {label: Lattes, name: lattes, required: false, widget: string},
+              {label: Site, name: site, required: false, widget: string},
+              {label: Linkedin, name: linkedin, required: false, widget: string},
+              {label: email, name: email, required: false, widget: string}
             ]}]}
           - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
           - {label: Full_image, name: full_image, widget: image}
