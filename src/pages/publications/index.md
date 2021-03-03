@@ -179,5 +179,45 @@ timelineEvents:
     event: Anais do 23º Simpósio Brasileiro de Informática na Educação (SBIE 2012),
       ISSN 2316-6533Rio de Janeiro, 26-30 de Novembro de 2012
     link: https://www.academia.edu/35702017/V%C3%ADrion_Jogo_Educacional_Desenvolvido_por_Alunos_de_N%C3%ADvel_M%C3%A9dio
+  - link: https://www.academia.edu/35685116/G%C3%8ANEROS_LITER%C3%81RIOS_DIALOGISMO_E_TECNOLOGIAS
+    titlepub: GÊNEROS LITERÁRIOS, DIALOGISMO E TECNOLOGIAS
+    bib: Ricardo Alves; Flávia Peres
+    event: "III CONEDU - Congresso Nacional de Educação "
+    year: 2016
+  - titlepub: Pensamento computacional e linguagem na resolução de problemas durante
+      o desenvolvimento de jogos digitais no ensino médio
+    bib: "Flavia, Taciana, Glacileide, Dyego "
+    year: 2020
+    link: "https://www.academia.edu/42028822/Cap_9_Pensamento_computacional_e_lingu\
+      agem_na_resolu%C3%A7%C3%A3o_de_problemas_durante_o_desenvolvimento_de_jog\
+      os_digitais_no_ensino_m%C3%A9dio "
+    event: "LIVRO: Computação na Educação Básica - fundamentos e experiencia "
+  - year: 2020
+    event: "LIVRO: Ludicidade, Jogos Digitais e Gamificação na Aprendizagem"
+    titlepub: "Demults - Desenvolvimento Educacional de Multimídas Sustentáveis "
+    link: "https://www.academia.edu/42028782/Cap_6_Demults_Desenvolvimento_Educacio\
+      nal_de_Multim%C3%ADdas_Sustent%C3%A1veis "
+    bib: "Flavia, Taciana, Glacileide, Dyego   "
+  - year: 2019
+    titlepub: "Cap/Parte III “Já estou implicado até a alma!”: modos, expressões e
+      desafios de subjetivação política juvenil"
+    bib: Érika de Sousa Mendonça, Flávia Mendes de Andrade e Peres, Tatiane Alves
+      Baptista
+    link: "   https://www.academia.edu/42028841/Cap_Parte_III_J%C3%A1_estou_implica\
+      do_at%C3%A9_a_alma_modos_express%C3%B5es_e_desafios_de_subjetiva%C3%A7%C3\
+      %A3o_pol%C3%ADtica_juvenil "
+    event: "LIVRO: Juventudes em Movimento experiências, redes e afetos"
+  - year: 2017
+    titlepub: "Jovens do campo e projetos de vida - Reflexões da psicologia
+      histórico cultural   "
+    bib: Ezequiel Alves Barbosa  Flavia Peres
+    link: "https://www.academia.edu/35804112/Cap_4_Jovens_do_campo_e_projetos_de_vi\
+      da_Reflex%C3%B5es_da_psicologia_hist%C3%B3rico_cultural "
+    event: "LIVRO: As Juventudes e seus Diferentes Sujeitos "
+  - year: 2014
+    titlepub: Interação, mediação no desenvolvimento de games educativos
+    bib: Flavia Peres, Debora Capezzera
+    event: "LIVRO: Pesquisa educacional e o Direito à Educação: Múltiplas abordagens"
+    link: https://www.academia.edu/35799361/Cap_5_Intera%C3%A7%C3%A3o_media%C3%A7%C3%A3o_no_desenvolvimento_de_games_educativos
 ---
 Área reservada para publicações e premiações relativas a trabalhos realizados no escopo do grupo de pesquisa.
