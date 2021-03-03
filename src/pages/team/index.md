@@ -163,7 +163,7 @@ intro:
 
         Mestranda no Programa de Pós-Graduação em Educação, Culturas e Identidades - PPGECI pela Universidade Federal Rural de Pernambuco - UFRPE. 
 
-        Professora pela Secretaria de Educação do Município de Altinho -PE no anos iniciais do ensino fundamental. 
+        Professora pela Secretaria de Educação do Município de Altinho -PE nos anos iniciais do Ensino Fundamental. 
 
         Membro do DEMULTS
 
