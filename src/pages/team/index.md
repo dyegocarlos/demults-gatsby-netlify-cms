@@ -58,7 +58,7 @@ intro:
 
         - Maratonador de séries e documentários que envolvam conteúdos 
       lattes: "Currículo Lattes: http://lattes.cnpq.br/2378445308939577"
-      image: /img/servletrecuperafoto.gif
+      image: /img/servletrecuperafoto.jpg
       email: fernando.rlimajr@gmail.com
       site: https://demults-site.netlify.app
       linkedin: https://demults-site.netlify.app
