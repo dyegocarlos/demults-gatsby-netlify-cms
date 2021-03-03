@@ -55,7 +55,8 @@ timelineEvents:
     bib: " MORAIS, D. C. S.; PONTUAL FALCÃO, TACIANA . Abordagem Participativa de
       Desenvolvimento de Jogos Digitais Educacionais no Contexto Escolar.
       REVISTA BRASILEIRA DE INFORMÁTICA NA EDUCAÇÃO, v. 27, p. 132-153, 2019."
-    titlepub: testando titulo
+    titlepub: Abordagem Participativa de Desenvolvimento de Jogos Digitais
+      Educacionais no Contexto Escolar.
     event: RBIE - Revista Brasileira de Informática na Educação
     link: https://www.br-ie.org/pub/index.php/rbie/article/view/7790
     prize: false
@@ -65,7 +66,8 @@ timelineEvents:
       (Brazilian Symposium on Computers in Education), 2017, Recife.
       org.crossref.xschema._1.Titlepub@6ad47f77, 2017. p. 807.'
     year: 2017
-    titlepub: testando titulo
+    titlepub: '"Today Is So Cool Nobody Wants to Leave": What Makes Teenagers
+      Engaged in Developing Educational Games at School?'
     event: XXVIII Simpósio Brasileiro de Informática na Educação (SBIE)
     link: https://www.br-ie.org/pub/index.php/sbie/article/view/7609
     prize: false
@@ -74,7 +76,8 @@ timelineEvents:
       IV Simpósio Hipertexto e Tecnologias na Educação, 2012, Recife.
       Comunidades e aprendizagem em rede, 2012."
     year: 2012
-    titlepub: testando titulo
+    titlepub: Análise da aprendizagem no processo de desenvolvimento de games
+      educacionais apoiado no design participativo
     event: IV Simpósio Hipertexto e Tecnologias na Educação
     link: https://issuu.com/simposiohipertexto/docs/resumos-simposio2012
   - bib: "MORAIS, D. C. S.; FALCAO, T. P. . Processos Participativos de
@@ -82,7 +85,8 @@ timelineEvents:
       Workshop de Desafios da Computação Aplicada à Educação, 2015, Recife. XXXV
       Congresso da Sociedade Brasileira de Computação, 2015."
     year: 2015
-    titlepub: testando titulo
+    titlepub: Processos Participativos de Desenvolvimento de Jogos Digitais em
+      Contextos Escolares.
     event: 4º DesafIE - Workshop de Desafios da Computação Aplicada à Educação
   - year: 2017
     titlepub: testando titulo
@@ -91,7 +95,8 @@ timelineEvents:
     prize: true
     bib: Projeto DEMULTS recebe chancela da Sociedade Brasileira de Computação (SBC)
   - year: 2017
-    titlepub: testando titulo
+    titlepub: MODELO DE DESENVOLVIMENTO PARTICIPATIVO DE JOGOS DIGITAIS EDUCACIONAIS
+      NO CONTEXTO ESCOLAR
     prize: true
     event: Menção Honrosa no Concurso Alexandre Direne de Teses, Dissertações e TCCs
       em Informática na Educação - Dissertações de Mestrado
