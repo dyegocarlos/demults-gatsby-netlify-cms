@@ -135,7 +135,7 @@ intro:
 
       lattes: http://lattes.cnpq.br/3302370550611244
       site: https://demults-site.netlify.app/
-      linkedin: https://demults-site.netlify.app/
+      linkedin: ""
       email: niceiaandrade26@gmail.com
       image: /img/niceia.jpg
     - name: Marta Cordeiro da Silva Gomes
