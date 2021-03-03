@@ -27,6 +27,7 @@ const FeatureGrid = ({ gridItems }) => (
           <h4>{item.name}</h4>
           <p>{item.text}</p>
           <div className="">
+            {item.lattes &&
             <a href={item.lattes}>
               <img
                 src={lattes}
@@ -34,6 +35,8 @@ const FeatureGrid = ({ gridItems }) => (
                 style={{ width: '1.5em', height: '1.5em', margin:'.5em' }}
               />
             </a>
+            }
+            {item.linkedin &&
             <a href={item.linkedin}>
               <img
                 src={linkedin}
@@ -41,6 +44,8 @@ const FeatureGrid = ({ gridItems }) => (
                 style={{ width: '1.5em', height: '1.5em', margin:'.5em' }}
               />
             </a>
+            }
+            {item.site &&
             <a href={item.site}>
               <img
                 src={site}
@@ -48,6 +53,8 @@ const FeatureGrid = ({ gridItems }) => (
                 style={{ width: '1.5em', height: '1.5em', margin:'.5em' }}
               />
             </a>
+            }
+            {item.email &&
             <a href={`mailto:${item.email}`}>
             <img
                 src={mail}
@@ -55,6 +62,7 @@ const FeatureGrid = ({ gridItems }) => (
                 style={{ width: '1.5em', height: '1.5em', margin:'.5em' }}
               />
             </a>
+            }
           </div>
         </section>
       </div>
