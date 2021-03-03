@@ -115,10 +115,10 @@ intro:
         educacionais, incluindo: educação em computação, pensamento
         computacional, interação humano-computador, acessibilidade e analíticas
         de aprendizagem."
-      lattes: "CV: http://lattes.cnpq.br/5706959249737319"
+      lattes: http://lattes.cnpq.br/5706959249737319
       email: taciana.pontual@ufrpe.br
       site: http://www.tacianapontual.com.br
-      linkedin: http://www.tacianapontual.com.br
+      linkedin: ""
       image: /img/taciana.gif
     - name: Nicéia Andrade da Silva
       text: >+
