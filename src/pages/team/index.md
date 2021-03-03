@@ -23,17 +23,6 @@ intro:
       site: https://www.dyegocarlos.com/
       linkedin: ""
       email: moraisdcs@gmail.com
-    - image: /img/taciana.jpg
-      name: Taciana Pontual Rocha
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-      lattes: https://www.google.com
-      site: https://www.google.com
-      linkedin: https://www.google.com
-      email: https://www.google.com
     - name: Fernando Rodrigues de Lima Júnior
       text: >-
         Atuação:
@@ -106,7 +95,7 @@ intro:
       site: https://www.falecomrozelma.com/
       linkedin: https://www.linkedin.com/in/rozelma-soares-de-fran%C3%A7a-5bb28b38/
       email: rozelma.franca@ufrpe.br
-      image: /img/rozelma.gif
+      image: /img/rozelma-1-....jpg
     - name: Taciana Pontual da Rocha Falcão
       text: "Professora adjunta do Departamento de Computação da Universidade Federal
         Rural de Pernambuco (UFRPE), onde também atuou como coordenadora do
