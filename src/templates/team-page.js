@@ -46,7 +46,7 @@ export const TeamPageTemplate = ({
               <div
                 className="full-width-image-container"
                 style={{
-                  backgroundImage: `url(${image &&
+                  backgroundImage: `url(${fullImage &&
                     fullImage.childImageSharp
                       ? fullImage.childImageSharp.fluid.src
                       : fullImage
