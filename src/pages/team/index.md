@@ -119,7 +119,7 @@ intro:
       email: taciana.pontual@ufrpe.br
       site: http://www.tacianapontual.com.br
       linkedin: ""
-      image: /img/taciana.gif
+      image: /img/taciana.jpg
     - name: Nicéia Andrade da Silva
       text: >+
         FORMAÇÃO: Mestre em Educação, Culturas e Identidades (UFRPE/FUNDAJ);
@@ -137,7 +137,7 @@ intro:
       site: https://demults-site.netlify.app/
       linkedin: https://demults-site.netlify.app/
       email: niceiaandrade26@gmail.com
-      image: /img/niceia.gif
+      image: /img/niceia.jpg
     - name: Marta Cordeiro da Silva Gomes
       text: >
         Marta Cordeiro da Silva Gomes
