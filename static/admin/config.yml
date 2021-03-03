@@ -119,8 +119,8 @@ collections:
               {label: Linkedin, name: linkedin, required: false, widget: string},
               {label: email, name: email, required: false, widget: string}
             ]}]}
-          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
-          - {label: Full_image, name: full_image, widget: image}
+          - {label: Testimonials, name: testimonials, widget: list, required: false, fields: [{label: Quote, name: quote, required: false, widget: string}, {label: Author, name: author, required: false, widget: string}]}
+          - {label: Full_image, name: full_image, required: false, widget: image}
       - file: "src/pages/publications/index.md"
         label: "Publications"
         name: "publications"
