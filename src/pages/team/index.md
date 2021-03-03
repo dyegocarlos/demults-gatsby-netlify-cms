@@ -202,7 +202,7 @@ intro:
       image: /img/flávia-jpeg.jpeg
       lattes: http://lattes.cnpq.br/2493398194909644
       site: https://demults-site.netlify.app/
-      linkedin: https://demults-site.netlify.app/
+      linkedin: ""
       email: peres.flavia@gmail.com
   heading: Pesquisadores
   description: desc
