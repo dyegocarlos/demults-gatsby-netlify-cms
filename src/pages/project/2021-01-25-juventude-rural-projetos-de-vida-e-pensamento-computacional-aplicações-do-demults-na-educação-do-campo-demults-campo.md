@@ -23,31 +23,9 @@ main:
   image3:
     image: /img/7.jpg
     alt: image 3
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
+testimonials: []
 artfacts:
-  blurbs:
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-      name: Titulo
-      link: https://www.google.com
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-      name: Titulo
-      link: https://www.google.com
+  blurbs: []
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
