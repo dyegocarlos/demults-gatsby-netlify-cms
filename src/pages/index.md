@@ -1,20 +1,12 @@
 ---
 templateKey: index-page
 title: Grupo de Pesquisa DEMULTS
-image: /img/img_20200309_133648-cópia.jpg
+image: /img/prancheta-1.png
 heading: Grupo de Pesquisa DEMULTS
 subheading: Desenvolvimento Educacional de Multimídias Sustentáveis
 mainpitch:
   title: DEMULTS
   description: PSICOLOGIA | EDUCAÇÃO | COMPUTAÇÃO
-description: "O DEMULTS (Desenvolvimento Educacional de Multimídias
-  sustentáveis), como grupo de pesquisa interdisciplinar, foi fundado em 2012,
-  com raízes em diversas áreas de atuação, principalmente relacionadas a
-  Educação, Psicologia e Computação. Certificado pelo CNPq
-  (http://dgp.cnpq.br/dgp/espelhogrupo/300384), suas linhas de pesquisa são:
-  Processos Educativos e Construção de Identidade Mediados por Tecnologias;
-  Pensamento Computacional e Educação; Aprendizagem e Desenvolvimento em
-  Contextos Informatizados."
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -46,6 +38,14 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: intro
   description: desc intro
+description: "O DEMULTS (Desenvolvimento Educacional de Multimídias
+  sustentáveis), como grupo de pesquisa interdisciplinar, foi fundado em 2012,
+  com raízes em diversas áreas de atuação, principalmente relacionadas a
+  Educação, Psicologia e Computação. Certificado pelo CNPq
+  (http://dgp.cnpq.br/dgp/espelhogrupo/300384), suas linhas de pesquisa são:
+  Processos Educativos e Construção de Identidade Mediados por Tecnologias;
+  Pensamento Computacional e Educação; Aprendizagem e Desenvolvimento em
+  Contextos Informatizados."
 main:
   heading: Great coffee with no compromises
   description: >
