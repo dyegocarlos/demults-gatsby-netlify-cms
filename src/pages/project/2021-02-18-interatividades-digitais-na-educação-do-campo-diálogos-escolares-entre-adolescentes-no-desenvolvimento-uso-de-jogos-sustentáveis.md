@@ -8,12 +8,12 @@ description: 2019-2020
 featuredpost: true
 featuredimage: /img/blog-index.jpg
 coworkers: |
-  Flávia Mendes de Andrade e Peres (Coordenador) 
-  Dyego Morais 
-  Taciana Pontual
-  Rozelma França
-  Niceia Andrade da Silva
-  Fernando Rodrigues
+  Flávia Mendes de Andrade e Peres (Coordenadora) - 
+  Dyego Morais -
+  Taciana Pontual -
+  Rozelma França -
+  Niceia Andrade da Silva -
+  Fernando Rodrigues -
 main:
   heading: FOTO1
   description: ok
