@@ -43,9 +43,9 @@ description: "O DEMULTS (Desenvolvimento Educacional de Multimídias
   com raízes em diversas áreas de atuação, principalmente relacionadas a
   Educação, Psicologia e Computação. Certificado pelo CNPq
   (http://dgp.cnpq.br/dgp/espelhogrupo/300384), suas linhas de pesquisa são:
-  Processos Educativos e Construção de Identidade Mediados por Tecnologias;
-  Pensamento Computacional e Educação; Aprendizagem e Desenvolvimento em
-  Contextos Informatizados."
+  Processos Educacionais e Subjetivação com Tecnologias Digitais; Pensamento
+  Computacional na Educação; e Produção de sentidos com Tecnologias Digitais em
+  Contextos Contra Hegemônicos"
 main:
   heading: Great coffee with no compromises
   description: >
