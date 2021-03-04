@@ -27,8 +27,8 @@ main:
     image: /img/img_20200309_133648-cópia.jpg
     alt: xicara
 artfacts:
-  heading: artefato
-  description: ok
+  heading: Artefatos
+  description: "Artefatos desenvolvidos durante este ciclo do projeto DEMULTS:"
 tags:
   - "#demults"
   - "#educaçãoDoCampo"
