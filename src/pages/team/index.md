@@ -119,7 +119,7 @@ intro:
       email: taciana.pontual@ufrpe.br
       site: http://www.tacianapontual.com.br
       linkedin: ""
-      image: /img/taciana.jpg
+      image: /img/taciana2-....png
     - name: Nicéia Andrade da Silva
       text: >+
         FORMAÇÃO: Mestre em Educação, Culturas e Identidades (UFRPE/FUNDAJ);
