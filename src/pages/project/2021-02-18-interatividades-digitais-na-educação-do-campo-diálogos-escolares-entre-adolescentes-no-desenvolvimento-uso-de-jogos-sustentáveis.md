@@ -7,12 +7,13 @@ date: 2019-04-10T11:18:46.353Z
 description: 2019-2020
 featuredpost: true
 featuredimage: /img/blog-index.jpg
-coworkers: >
-  Flávia Mendes de Andrade e Peres - Coordenador / Dyego Morais - Integrante /
-  Taciana Pontual - Integrante / Rozelma França - Integrante / Niceia Andrade da
-  Silva - Integrante / Fernando Rodrigues - Integrante.
-
-  2018 - Atual
+coworkers: |
+  Flávia Mendes de Andrade e Peres (Coordenador) 
+  Dyego Morais 
+  Taciana Pontual
+  Rozelma França
+  Niceia Andrade da Silva
+  Fernando Rodrigues
 main:
   heading: FOTO1
   description: ok
@@ -29,8 +30,8 @@ artfacts:
   heading: artefato
   description: ok
 tags:
-  - DEMULTS
-  - EDUÇÀO DO CAMPO
+  - "#demults"
+  - "#educaçãoDoCampo"
 ---
 Na realidade brasileira, como em outros contextos latino americanos, os adolescentes do campo vivenciam algumas dificuldades ao longo da educação formal, como a ausência de contextualização dos conteúdos curriculares para territórios rurais. A educação do campo procura minimizar esses problemas a partir de diretrizes específicas que favorecem a mediação social, mas no geral, os materiais didáticos, como tecnologias digitais, ainda são desenvolvidos em grandes centros urbanos. 
 
