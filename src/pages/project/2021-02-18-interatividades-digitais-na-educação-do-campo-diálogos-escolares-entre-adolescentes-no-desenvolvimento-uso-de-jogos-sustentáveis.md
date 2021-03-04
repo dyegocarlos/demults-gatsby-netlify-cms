@@ -17,11 +17,11 @@ main:
   heading: FOTO1
   description: ok
   image1:
-    image: /img/blog-index.jpg
-    alt: ainda alterar
+    image: /img/img_20191111_141214.jpg
+    alt: grupo
   image2:
-    image: /img/chemex.jpg
-    alt: cafe
+    image: /img/20190821_160151.jpg
+    alt: equipe
   image3:
     image: /img/img_20200309_133648-cópia.jpg
     alt: xicara
