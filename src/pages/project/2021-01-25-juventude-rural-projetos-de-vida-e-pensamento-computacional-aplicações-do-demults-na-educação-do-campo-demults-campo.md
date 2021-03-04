@@ -15,13 +15,13 @@ main:
   heading: heading
   description: description
   image1:
-    image: /img/apple-touch-icon.png
+    image: /img/dsc_0157.jpg
     alt: image 1
   image2:
-    image: /img/blog-index.jpg
+    image: /img/dsc_0035.jpg
     alt: image 2
   image3:
-    image: /img/flavor_wheel.jpg
+    image: /img/7.jpg
     alt: image 3
 testimonials:
   - author: Elisabeth Kaurismäki
