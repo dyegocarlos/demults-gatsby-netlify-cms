@@ -60,8 +60,8 @@ intro:
       lattes: http://lattes.cnpq.br/2378445308939577
       image: /img/servletrecuperafoto.jpg
       email: fernando.rlimajr@gmail.com
-      site: https://demults-site.netlify.app
-      linkedin: https://demults-site.netlify.app
+      site: ""
+      linkedin: ""
     - name: Rozelma Soares de  França
       text: >-
         Rozelma Soares de França
