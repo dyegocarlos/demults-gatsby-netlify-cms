@@ -39,13 +39,12 @@ intro:
   heading: intro
   description: desc intro
 description: "O DEMULTS (Desenvolvimento Educacional de Multimídias
-  sustentáveis), como grupo de pesquisa interdisciplinar, foi fundado em 2012,
+  sustentáveis), como grupo de pesquisa interdisciplinar, foi fundado em 2011,
   com raízes em diversas áreas de atuação, principalmente relacionadas a
-  Educação, Psicologia e Computação. Certificado pelo CNPq
-  (http://dgp.cnpq.br/dgp/espelhogrupo/300384), suas linhas de pesquisa são:
-  Processos Educacionais e Subjetivação com Tecnologias Digitais; Pensamento
-  Computacional na Educação; e Produção de sentidos com Tecnologias Digitais em
-  Contextos Contra Hegemônicos"
+  Educação, Psicologia e Computação. Certificado pelo CNPq, suas linhas de
+  pesquisa são: Processos Educacionais e Subjetivação com Tecnologias Digitais;
+  Pensamento Computacional na Educação; e Produção de sentidos com Tecnologias
+  Digitais em Contextos Contra Hegemônicos"
 main:
   heading: Great coffee with no compromises
   description: >
