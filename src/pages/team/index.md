@@ -216,7 +216,7 @@ intro:
 
 
         Nas Horas Livres gosto de ilustrar, cultivar cactos, ler sobre a vida e obras de Frida Khalo. Fazer Oficinas de Desenho e Colagens, Amo Fotografia e fazer coisas artesanais utilizando objetos de reutilização.
-      name: LIDIA BORGES VIDIGAL
+      name: Lídia Borges Vidigal
       email: "lidiavidigal21@gmail.com "
       lattes: " http://lattes.cnpq.br/6496230158650924"
       linkedin: https://www.linkedin.com/in/lidia-vidigal-1b3b57190/
