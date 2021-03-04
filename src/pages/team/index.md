@@ -57,7 +57,7 @@ intro:
         - Leitor, cinéfilo e jogador de obras que envolvam experiências de fantasia em mundos de magia, especialmente incluindo o universo de Harry Potter e da Terra Média
 
         - Maratonador de séries e documentários que envolvam conteúdos 
-      lattes: "Currículo Lattes: http://lattes.cnpq.br/2378445308939577"
+      lattes: http://lattes.cnpq.br/2378445308939577
       image: /img/servletrecuperafoto.jpg
       email: fernando.rlimajr@gmail.com
       site: https://demults-site.netlify.app
