@@ -2,9 +2,9 @@
 templateKey: blog-post
 title: Pensamento Computacional na Educação
 date: 2017-01-04T15:04:10.000Z
-description: Compreender as configurações contextuais que favorecem o processo
-  de ensino-aprendizagem e o desenvolvimento do Pensamento Computacional em suas
-  diferentes concepções e aplicações.
+description: "Objetivo: Compreender as configurações contextuais que favorecem o
+  processo de ensino-aprendizagem e o desenvolvimento do Pensamento
+  Computacional em suas diferentes concepções e aplicações."
 featuredpost: true
 featuredimage: /img/demults-comparado-12.jpg
 tags:
