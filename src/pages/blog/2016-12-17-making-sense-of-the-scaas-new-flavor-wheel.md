@@ -2,10 +2,10 @@
 templateKey: blog-post
 title: Processos Educacionais e Subjetivação com Tecnologias Digitais
 date: 2021-12-17T15:04:00.000Z
-description: Compreender aspectos interacionais e sócio-afetivos, bem como as
-  transformações na produção de significados na contemporaneidade, como
+description: "Objetivo: Compreender aspectos interacionais e sócio-afetivos, bem
+  como as transformações na produção de significados na contemporaneidade, como
   consequência da ação de sujeitos em atividades de desenvolvimento ou uso de
-  artefatos digitais.
+  artefatos digitais."
 featuredpost: true
 featuredimage: /img/img_20200309_133648.jpg
 tags:
