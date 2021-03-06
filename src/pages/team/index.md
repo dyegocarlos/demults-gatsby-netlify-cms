@@ -2,12 +2,27 @@
 heading: ""
 path: /team
 templateKey: team-page
-title: Pessoas Pesquisadoras, Orientadoras e Orientandas
+title: Pessoas Pesquisadoras
 image: /img/captura-de-tela-2020-12-17-às-09.17.20.png
 description: "O DEMULTS se tornou um ambiente em que as relações se dão para
   além das intenções acadêmicas e profissionais. "
 intro:
   blurbs:
+    - text: >
+        Licenciada em Biologia pela Universidade Federal de
+        Pernambuco-UFPE-(2015), Licencianda em Computação pela Universidade
+        Federal Rural de Pernambuco- UFRPE-(2019.2), Mestranda em Informática
+        Aplicada pela Universidade Federal Rural de Pernambuco-UFRPE-(2020).
+        Atua como técnica em projetos  da educação em prisões da Gerência de
+        Educação de Jovens, Adultos e Idosos- GEJAI- Secretária de Educação do
+        Estado-SEE-PE. Representante da SEE-PE no Fórum Pernambucano de Combate
+        ao Agrotóxico. 
+
+        Hobbies: “Construir casas”, assistir filmes (diversos), cozinhar, ouvir música. 
+      name: Bárbara Silva Morais
+      lattes: " http://lattes.cnpq.br/2325795251461013"
+      email: bebelkinp458@gmail.com
+      image: /img/barbara....jpeg
     - image: /img/eu.png
       name: Dyego Carlos Sales de Morais
       text: Licenciado (UFRPE), Mestre e Doutorando em Ciência da Computação
@@ -62,6 +77,107 @@ intro:
       email: fernando.rlimajr@gmail.com
       site: ""
       linkedin: ""
+    - text: |-
+        Mestrado e Doutorado em Psicologia Cognitiva (UFPE). Professora
+        Associada da Universidade Federal Rural de Pernambuco (UFRPE),
+        na Área de Psicologia, do Departamento de Educação. Professora do
+        Programa de Pós-Graduação em Educação, Culturas e Identidades
+        (UFRPE/FUNDAJ), com pesquisas relacionadas a tecnologias digitais
+        e subjetivação, produção de sentidos com tecnologia em territórios
+        diversos, psicologia rural e educação do campo. Integrante do time
+        de pesquisadores do COGNVOX (software psicopedagógico voltado
+        para o desenvolvimento de crianças e adolescentes com deficiência
+        intelectual). Líder do grupo de pesquisa DEMULTS –
+        Desenvolvimento Educacional de Multimídias Sustentáveis.
+        Nas horas livres, gosto de ler livros de ficção científica, ver filmes e
+        praticar o bordado manual.
+      name: Flávia Mendes de Andrade e Peres
+      image: /img/flávia-jpeg.jpeg
+      lattes: http://lattes.cnpq.br/2493398194909644
+      site: https://demults-site.netlify.app/
+      linkedin: ""
+      email: peres.flavia@gmail.com
+    - text: >-
+        Graduação na área de Gestão em Marketing pela IPESU, Graduação em Design
+        Gráfico pela AESO Barros Melo. Professora da Rede Estadual nos Cursos
+        Técnicos em Comunicação Visual. Atualmente no corpo técnico da Escola
+        Técnica Miguel Batista. Cursando MBA em Marketing Digital na ESUDA. 
+
+        Participante voluntaria no grupo de Pesquisa DEMULTS, como Designer atuando junto ao grupo na linha de pesquisa do Design Participativo. Como a Ilustração e o Design podem transformar o individuo. 
+
+        Atuando como profissional na área de criação de Identidade visual, Embalagens, Projetos editorais e Mídias Digitais.
+
+
+        Nas Horas Livres gosto de ilustrar, cultivar cactos, ler sobre a vida e obras de Frida Khalo. Fazer Oficinas de Desenho e Colagens, Amo Fotografia e fazer coisas artesanais utilizando objetos de reutilização.
+      name: Lídia Borges Vidigal
+      email: "lidiavidigal21@gmail.com "
+      lattes: " http://lattes.cnpq.br/6496230158650924"
+      linkedin: https://www.linkedin.com/in/lidia-vidigal-1b3b57190/
+      image: /img/lidia.jpg
+    - name: Marta Cordeiro da Silva Gomes
+      text: >
+        Marta Cordeiro da Silva Gomes
+
+
+        Formação e atuação:
+
+
+        Graduação em Licenciatura em Pedagogia pela Universidade Federal de Pernambuco/Centro Acadêmico do Agreste - UFPE/CAA. 
+
+        Especialização em Língua Portuguesa e suas Literaturas - UPE 
+
+        Mestranda no Programa de Pós-Graduação em Educação, Culturas e Identidades - PPGECI pela Universidade Federal Rural de Pernambuco - UFRPE. 
+
+        Professora pela Secretaria de Educação do Município de Altinho -PE nos anos iniciais do Ensino Fundamental. 
+
+        Membro do DEMULTS
+
+
+        Hobbies:
+
+        Leitura de romances, assistir séries, ir à praia. 
+      lattes: http://lattes.cnpq.br/7191901560048030
+      image: /img/marta.jpeg
+      site: https://demults-site.netlify.app/
+      linkedin: https://www.linkedin.com/feed/
+      email: marta.cordeiroufpe@gmail.com
+    - name: Nicéia Andrade da Silva
+      text: >+
+        FORMAÇÃO: Mestre em Educação, Culturas e Identidades (UFRPE/FUNDAJ);
+        Especialista em Programação de Ensino em Literaturas de Expressão
+        Portuguesa (FAINTVISA, 2000); Graduada e Licenciada em Letras (UPE,
+        1990)
+
+        ATUAÇÃO: Professora da Secretaria de Educação do Estado de Pernambuco; Membro de Grupos de Pesquisa: Desenvolvimento Educacional de Multimídias Sustentáveis (DEMULTS - UFRPE) e Transculturalismo Crítico,Diversidade Cultural e Educação (GTRANSCRI - UFRPE/FUNDAJ)
+
+        ÁREA DE PESQUISA: Educação e Educação do Campo. 
+
+        HOBBIES: Viajar, ir à praia, assistir a filmes e séries, ler livros e revistas sobre educação, literatura, política, religião e comédia.
+
+      lattes: http://lattes.cnpq.br/3302370550611244
+      site: https://demults-site.netlify.app/
+      linkedin: ""
+      email: niceiaandrade26@gmail.com
+      image: /img/niceia.jpg
+    - text: >-
+        Bacharel em Antropóloga e Diversidade Cultural Latino Americana pela
+        Universidade Federal da Integração latino-americana - UNILA. 
+
+        Pesquisadora, mediadora de projetos culturais com a perspectiva latino americanista enquanto forma integradora de saberes transdisciplinares. 
+
+        Mestranda em Educação, Culturas e Identidades no PPGECI. Especialista em Design Educacional pelo Instituto Federal do Espirito Santo - IFES. Trabalha como Design de Produto na ClickBus. 
+
+
+        De comunicação fácil, curiosa, criativa e colaborativa.
+
+
+        Atua como Doula, circula de bicicleta e adora um forró rabecado.
+      name: Renata Maria Mendes Brasileiro da Silva
+      lattes: " http://lattes.cnpq.br/2805216804045456"
+      site: https://demults-site.netlify.app/
+      linkedin: https://www.linkedin.com/in/renatabrasileiro/
+      email: renata.brasileiro@yahoo.com
+      image: /img/renatao-jpeg.jpeg
     - name: Rozelma Soares de  França
       text: >-
         Rozelma Soares de França
@@ -120,122 +236,6 @@ intro:
       site: http://www.tacianapontual.com.br
       linkedin: ""
       image: /img/taciana2-....png
-    - name: Nicéia Andrade da Silva
-      text: >+
-        FORMAÇÃO: Mestre em Educação, Culturas e Identidades (UFRPE/FUNDAJ);
-        Especialista em Programação de Ensino em Literaturas de Expressão
-        Portuguesa (FAINTVISA, 2000); Graduada e Licenciada em Letras (UPE,
-        1990)
-
-        ATUAÇÃO: Professora da Secretaria de Educação do Estado de Pernambuco; Membro de Grupos de Pesquisa: Desenvolvimento Educacional de Multimídias Sustentáveis (DEMULTS - UFRPE) e Transculturalismo Crítico,Diversidade Cultural e Educação (GTRANSCRI - UFRPE/FUNDAJ)
-
-        ÁREA DE PESQUISA: Educação e Educação do Campo. 
-
-        HOBBIES: Viajar, ir à praia, assistir a filmes e séries, ler livros e revistas sobre educação, literatura, política, religião e comédia.
-
-      lattes: http://lattes.cnpq.br/3302370550611244
-      site: https://demults-site.netlify.app/
-      linkedin: ""
-      email: niceiaandrade26@gmail.com
-      image: /img/niceia.jpg
-    - name: Marta Cordeiro da Silva Gomes
-      text: >
-        Marta Cordeiro da Silva Gomes
-
-
-        Formação e atuação:
-
-
-        Graduação em Licenciatura em Pedagogia pela Universidade Federal de Pernambuco/Centro Acadêmico do Agreste - UFPE/CAA. 
-
-        Especialização em Língua Portuguesa e suas Literaturas - UPE 
-
-        Mestranda no Programa de Pós-Graduação em Educação, Culturas e Identidades - PPGECI pela Universidade Federal Rural de Pernambuco - UFRPE. 
-
-        Professora pela Secretaria de Educação do Município de Altinho -PE nos anos iniciais do Ensino Fundamental. 
-
-        Membro do DEMULTS
-
-
-        Hobbies:
-
-        Leitura de romances, assistir séries, ir à praia. 
-      lattes: http://lattes.cnpq.br/7191901560048030
-      image: /img/marta.jpeg
-      site: https://demults-site.netlify.app/
-      linkedin: https://www.linkedin.com/feed/
-      email: marta.cordeiroufpe@gmail.com
-    - text: >-
-        Bacharel em Antropóloga e Diversidade Cultural Latino Americana pela
-        Universidade Federal da Integração latino-americana - UNILA. 
-
-        Pesquisadora, mediadora de projetos culturais com a perspectiva latino americanista enquanto forma integradora de saberes transdisciplinares. 
-
-        Mestranda em Educação, Culturas e Identidades no PPGECI. Especialista em Design Educacional pelo Instituto Federal do Espirito Santo - IFES. Trabalha como Design de Produto na ClickBus. 
-
-
-        De comunicação fácil, curiosa, criativa e colaborativa.
-
-
-        Atua como Doula, circula de bicicleta e adora um forró rabecado.
-      name: Renata Maria Mendes Brasileiro da Silva
-      lattes: " http://lattes.cnpq.br/2805216804045456"
-      site: https://demults-site.netlify.app/
-      linkedin: https://www.linkedin.com/in/renatabrasileiro/
-      email: renata.brasileiro@yahoo.com
-      image: /img/renatao-jpeg.jpeg
-    - text: |-
-        Mestrado e Doutorado em Psicologia Cognitiva (UFPE). Professora
-        Associada da Universidade Federal Rural de Pernambuco (UFRPE),
-        na Área de Psicologia, do Departamento de Educação. Professora do
-        Programa de Pós-Graduação em Educação, Culturas e Identidades
-        (UFRPE/FUNDAJ), com pesquisas relacionadas a tecnologias digitais
-        e subjetivação, produção de sentidos com tecnologia em territórios
-        diversos, psicologia rural e educação do campo. Integrante do time
-        de pesquisadores do COGNVOX (software psicopedagógico voltado
-        para o desenvolvimento de crianças e adolescentes com deficiência
-        intelectual). Líder do grupo de pesquisa DEMULTS –
-        Desenvolvimento Educacional de Multimídias Sustentáveis.
-        Nas horas livres, gosto de ler livros de ficção científica, ver filmes e
-        praticar o bordado manual.
-      name: Flávia Mendes de Andrade e Peres
-      image: /img/flávia-jpeg.jpeg
-      lattes: http://lattes.cnpq.br/2493398194909644
-      site: https://demults-site.netlify.app/
-      linkedin: ""
-      email: peres.flavia@gmail.com
-    - text: >-
-        Graduação na área de Gestão em Marketing pela IPESU, Graduação em Design
-        Gráfico pela AESO Barros Melo. Professora da Rede Estadual nos Cursos
-        Técnicos em Comunicação Visual. Atualmente no corpo técnico da Escola
-        Técnica Miguel Batista. Cursando MBA em Marketing Digital na ESUDA. 
-
-        Participante voluntaria no grupo de Pesquisa DEMULTS, como Designer atuando junto ao grupo na linha de pesquisa do Design Participativo. Como a Ilustração e o Design podem transformar o individuo. 
-
-        Atuando como profissional na área de criação de Identidade visual, Embalagens, Projetos editorais e Mídias Digitais.
-
-
-        Nas Horas Livres gosto de ilustrar, cultivar cactos, ler sobre a vida e obras de Frida Khalo. Fazer Oficinas de Desenho e Colagens, Amo Fotografia e fazer coisas artesanais utilizando objetos de reutilização.
-      name: Lídia Borges Vidigal
-      email: "lidiavidigal21@gmail.com "
-      lattes: " http://lattes.cnpq.br/6496230158650924"
-      linkedin: https://www.linkedin.com/in/lidia-vidigal-1b3b57190/
-      image: /img/lidia.jpg
-    - text: >
-        Licenciada em Biologia pela Universidade Federal de
-        Pernambuco-UFPE-(2015), Licencianda em Computação pela Universidade
-        Federal Rural de Pernambuco- UFRPE-(2019.2), Mestranda em Informática
-        Aplicada pela Universidade Federal Rural de Pernambuco-UFRPE-(2020).
-        Atua como técnica em projetos  da educação em prisões da Gerência de
-        Educação de Jovens, Adultos e Idosos- GEJAI- Secretária de Educação do
-        Estado-SEE-PE. Representante da SEE-PE no Fórum Pernambucano de Combate
-        ao Agrotóxico. 
-
-        Hobbies: “Construir casas”, assistir filmes (diversos), cozinhar, ouvir música. 
-      name: Bárbara Silva Morais
-      lattes: " http://lattes.cnpq.br/2325795251461013"
-      email: bebelkinp458@gmail.com
-      image: /img/barbara....jpeg
   heading: Pesquisadores
   description: desc
 testimonials: []
