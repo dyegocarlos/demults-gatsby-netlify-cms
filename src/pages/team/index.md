@@ -94,7 +94,7 @@ intro:
       name: Flávia Mendes de Andrade e Peres
       image: /img/flávia-jpeg.jpeg
       lattes: http://lattes.cnpq.br/2493398194909644
-      site: https://demults-site.netlify.app/
+      site: ""
       linkedin: ""
       email: peres.flavia@gmail.com
     - text: >-
@@ -138,8 +138,8 @@ intro:
         Leitura de romances, assistir séries, ir à praia. 
       lattes: http://lattes.cnpq.br/7191901560048030
       image: /img/marta.jpeg
-      site: https://demults-site.netlify.app/
-      linkedin: https://www.linkedin.com/feed/
+      site: ""
+      linkedin: ""
       email: marta.cordeiroufpe@gmail.com
     - name: Nicéia Andrade da Silva
       text: >+
@@ -155,7 +155,7 @@ intro:
         HOBBIES: Viajar, ir à praia, assistir a filmes e séries, ler livros e revistas sobre educação, literatura, política, religião e comédia.
 
       lattes: http://lattes.cnpq.br/3302370550611244
-      site: https://demults-site.netlify.app/
+      site: ""
       linkedin: ""
       email: niceiaandrade26@gmail.com
       image: /img/niceia.jpg
@@ -174,7 +174,7 @@ intro:
         Atua como Doula, circula de bicicleta e adora um forró rabecado.
       name: Renata Maria Mendes Brasileiro da Silva
       lattes: " http://lattes.cnpq.br/2805216804045456"
-      site: https://demults-site.netlify.app/
+      site: ""
       linkedin: https://www.linkedin.com/in/renatabrasileiro/
       email: renata.brasileiro@yahoo.com
       image: /img/renatao-jpeg.jpeg
@@ -207,7 +207,7 @@ intro:
         Hobbies:
 
         Viajar, cozinhar, decorar o meu refúgio ~ lar ~ e, mais recentemente, bordar :)
-      lattes: "CV: http://lattes.cnpq.br/4282789732521235"
+      lattes: http://lattes.cnpq.br/4282789732521235
       site: https://www.falecomrozelma.com/
       linkedin: https://www.linkedin.com/in/rozelma-soares-de-fran%C3%A7a-5bb28b38/
       email: rozelma.franca@ufrpe.br
