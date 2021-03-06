@@ -26,7 +26,7 @@ intro:
     - image: /img/eu.png
       name: Dyego Carlos Sales de Morais
       text: Licenciado (UFRPE), Mestre e Doutorando em Ciência da Computação
-        (CIn/UFPE). Participa do DEMULTS desde sua criação, em 2011,
+        (CIn/UFPE). Participa do DEMULTS desde sua criação, em 2012,
         investigando processos participativos em contextos escolares urbanos e
         rurais. Suas áreas de interesse vão desde Interação Humano-Computador
         até Educação do Campo, passeando por Filosofia da Tecnologia e Educação
