@@ -7,13 +7,10 @@ date: 2019-04-10T11:18:46.353Z
 description: 2019-2020
 featuredpost: true
 featuredimage: /img/blog-index.jpg
-coworkers: |
+coworkers: >
   Flávia Mendes de Andrade e Peres (Coordenadora) - 
-  Dyego Morais -
-  Taciana Pontual -
-  Rozelma França -
-  Niceia Andrade da Silva -
-  Fernando Rodrigues -
+
+  Dyego Carlos Sales de Morais - Taciana Pontual da Rocha Falcão - Rozelma Soares de França - Niceia Andrade da Silva - Fernando Rodrigues de Lima Júnior – Shany Lira de Queiroz – Bruno Santana de Oliveira – Lídia Borges Vidigal
 main:
   heading: FOTO1
   description: ok
