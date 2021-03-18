@@ -7,10 +7,10 @@ date: 2017-08-01T17:04:00.000Z
 description: 2017-2019
 featuredpost: true
 featuredimage: /img/captura-de-tela-2020-12-17-às-09.17.20.png
-coworkers: "Integrantes: Flávia Mendes de Andrade e Peres - Coordenador / Max da
-  Silva - Integrante / Dyego Morais - Integrante / Glaucicleide Oliveira -
-  Integrante / Taciana Pontual - Integrante / Rodrigo Lins - Integrante /
-  Rozelma França - Integrante."
+coworkers: Flávia Mendes de Andrade e Peres (Coordenadora) - Taciana Pontual -
+  Rodrigo Lins - Rozelma França - Dyego Morais - Glaucicleide Oliveira - Felícia
+  Lacerda de Oliveira Fontes – Jhonatan Rafael da Silva Aquino – Isabela Vieira
+  de Carvalho – Anderson Juan Rocha Menezes
 main:
   heading: heading
   description: description
