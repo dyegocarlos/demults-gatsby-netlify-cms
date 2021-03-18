@@ -7,10 +7,11 @@ date: 2015-02-15T12:48:00.000Z
 description: 2015-2016
 featuredpost: true
 featuredimage: /img/11220826_929155193826617_7163938698033327962_n.jpg
-coworkers: Flávia Mendes de Andrade e Peres - Coordenador /Taciana Pontual -
-  Integrante / Lorena Pía Medina - Integrante / Patricia Jaramillo - Integrante
-  / Georgia Daniella Feitosa de Araujo Ribeiro - Integrante / Ricardo Alves -
-  Integrante / Renato Oliveira - Integrante.
+coworkers: Flávia Mendes de Andrade e Peres (Coordenadora) - Taciana Pontual -
+  Lorena Pía Medina - Patricia Jaramillo - Dyego Carlos Sales de Morais -
+  Georgia Daniella Feitosa de Araujo Ribeiro - Ricardo Alves da Silva - Wagner
+  Felipe Brayner da Silva - Renato Oliveira – Helline Gomes Rodrigues Pinto –
+  Ismael Mendes Cavalcanti de Albuquerque
 main:
   image3:
     image: /img/10409641_10154687628948312_7938523417490871296_n.jpg
