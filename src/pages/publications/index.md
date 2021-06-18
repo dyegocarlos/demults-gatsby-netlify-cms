@@ -1,7 +1,7 @@
 ---
 templateKey: publications-page
 path: /publications
-title: Prêmios e Publicações
+title: Publicações e Prêmios
 image: /img/captura-de-tela-2020-12-17-às-09.17.20.png
 timelineEvents:
   - year: 2020
