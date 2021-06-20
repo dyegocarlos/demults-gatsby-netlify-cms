@@ -236,6 +236,32 @@ intro:
       site: http://www.tacianapontual.com.br
       linkedin: ""
       image: /img/taciana2-....png
+    - image: /img/perfil.jpeg
+      name: Renata Carvalho da Silva
+      text: >
+        Pedagoga, mestra em Educação, Culturas e Identidades pela UFRPE/FUNDAJ.
+
+        Especialista em Psicopedagogia Escolar, e em Educação Especial e Inclusiva com ênfase em Tecnologia Assistiva e Comunicação Alternativa.
+
+        Possui experiência em pesquisa e extensão, em Educação Social, na Formação continuada de professores e educadores sociais, e em Regência nos anos inicias do Ensino Fundamental, Educação Infantil, Educação de Jovens e Adultos, e disciplinas pedagógicas no Ensino Médio.
+
+        Pesquisadora no Desenvolvimento Educacional de Multimídias Sustentáveis - DEMULTS/UFRPE e na RBAC Rede Brasileira de Aprendizagem Criativa (Núcleo Recife).
+
+        Professora Multiplicadora de Tecnologias Educacionais da Rede Municipal de Ensino do Recife, realizando acompanhamento e formação de professores, cursos, oficinas, projetos de Audiovisual e Acessibilidade na Educação, e mentoria de clube de Programação com Scratch.
+
+        Docente do Curso de graduação em Pedagogia da UNIBRA – Centro Universitário Brasileiro.
+
+        Tutora Virtual do Curso de graduação em Licenciatura em Artes Visuais Digitais da EAD/UFRPE.
+
+        Obteve premiação na Feira de Conhecimentos do Recife (FECON) em 2018 com credencial para o Ceará, e na Milset Brasil em 2019 com credencial para o Paraguai. Obteve, ainda, o Prêmio “Boas Práticas” da Fundação Lemann, o Prêmio “Prática Destaque” pelo Grupo Neoenergia, e o prêmio “Professora Destaque” no Encontro de Audiovisual na Educação do Recife em 2019.
+
+        Linha de pesquisa: Práticas criativas, sustentáveis, inclusivas e inovadoras com Tecnologias Educacionais.
+
+
+        Gosta de ler, assistir filmes, desenhar, dançar e viajar.
+      site: "@professorarenatacarvalho"
+      lattes: " http://lattes.cnpq.br/4215716379279029"
+      email: renata.carvalho@prof.educ.rec.br
   heading: Pesquisadores
   description: desc
 testimonials: []
