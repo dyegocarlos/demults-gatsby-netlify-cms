@@ -262,6 +262,18 @@ intro:
       site: "@professorarenatacarvalho"
       lattes: " http://lattes.cnpq.br/4215716379279029"
       email: renata.carvalho@prof.educ.rec.br
+    - name: Bruno Barboza
+      text: Atualmente é mestrando em Informática Aplicada pelo Programa de
+        Pós-graduação em Informática Aplicada (PPGIA) da Universidade Federal
+        Rural de Pernambuco (UFRPE). Possui graduação em Licenciatura em
+        Computação pela Universidade de Pernambuco (2019). Desde 2019 é
+        graduando em Licenciatura em Pedagogia pelo Centro Universitário
+        Leonardo da Vinci. Também é formado no curso de pós-graduação em
+        Arquitetura e Infraestrutura de TI pela Faculdade Venda Nova do
+        Imigrante - FAVENI (2021). Tem experiência na área de Ciência da
+        Computação, Computação Interdisciplinar e Educação.
+      image: /img/brubo-barboza.jpg
+      email: brunobarboza3103@gmail.com
   heading: Pesquisadores
   description: desc
 testimonials: []
