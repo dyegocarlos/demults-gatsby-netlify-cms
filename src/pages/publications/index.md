@@ -219,5 +219,10 @@ timelineEvents:
     bib: Flavia Peres, Debora Capezzera
     event: "LIVRO: Pesquisa educacional e o Direito à Educação: Múltiplas abordagens"
     link: https://www.academia.edu/35799361/Cap_5_Intera%C3%A7%C3%A3o_media%C3%A7%C3%A3o_no_desenvolvimento_de_games_educativos
+  - year: 2018
+    titlepub: Chancela da Sociedade Brasileira de Computação
+    prize: true
+    link: https://www.sbc.org.br/2-uncategorised/2034-desenvolvimento-educacional-de-multimidias-sustentaveis
+    bib: Chancela SBC para o projeto DEMULTS
 ---
 Área reservada para publicações e premiações relativas a trabalhos realizados no escopo do grupo de pesquisa.
