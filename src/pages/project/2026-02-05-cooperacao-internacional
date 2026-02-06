@@ -1,7 +1,34 @@
+---
+templateKey: project-post
+image: /img/captura-de-tela-2020-12-17-às-09.17.20.png
+title: "Projeto de Cooperação Internacional"
+date: 2024-04-10T11:18:46.353Z
+description: 2024-2026
+featuredpost: true
+featuredimage: /img/blog-index.jpg
+coworkers: >
+  Flávia Mendes de Andrade e Peres (Coordenadora) - 
 
-Estamos nos momentos iniciais do novo ciclo de pesquisa-ação do DEMULTS, que acontece em cooperação internacional com a Fundación Centro Internacional Cabo de Hornos @centrochic
-
-Destacamos a importância educacional dessa pesquisa, para o fortalecimento da memória biocultural nos territórios, alinhada a processos de subjetivação em direção à ética biocultural. Além da área educacional, outras áreas, como a psicologia, computação, biologia e agroecologia tornam a pesquisa um campo eminentemente interdisciplinar. Mais ainda, um campo transdisciplinar se fortalece, pelo diálogo de saberes firmado com mestres dos territórios e pelas metodologias participativas evocadas.
+  Dyego Carlos Sales de Morais - Taciana Pontual da Rocha Falcão - Rozelma Soares de França - Niceia Andrade da Silva - Renata Carvalho
+main:
+  heading: FOTO1
+  description: ok
+  image1:
+    image: /img/img_20191111_141214.jpg
+    alt: grupo
+  image2:
+    image: /img/20190821_160151.jpg
+    alt: equipe
+  image3:
+    image: /img/img_20200309_133648-cópia.jpg
+    alt: xicara
+artfacts:
+  heading: Artefatos
+  description: "Artefatos desenvolvidos durante este ciclo do projeto DEMULTS:"
+tags:
+  - "#demults"
+  - "#educaçãoDoCampo"
+---
 
 No Brasil, a pesquisa será desenvolvida na Zona da Mata pernambucana, região que resiste aos anos de degradação, exploração e opressão, como toda a América Latina. Apesar do processo de colonização devastador, dos conflitos e das lutas históricas que pouco deixaram do bioma Mata Atlântica às novas gerações, a Zona da Mata pode ser vista também como território de vida - biodiversidade e diversidade cultural – com um enorme potencial transformador para a conservação biocultural.
 
