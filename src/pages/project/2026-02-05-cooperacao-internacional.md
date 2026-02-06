@@ -31,10 +31,10 @@ tags:
   - "#chile"
 ---
 
-No Brasil, a pesquisa será desenvolvida na Zona da Mata pernambucana, região que resiste aos anos de degradação, exploração e opressão, como toda a América Latina. Apesar do processo de colonização devastador, dos conflitos e das lutas históricas que pouco deixaram do bioma Mata Atlântica às novas gerações, a Zona da Mata pode ser vista também como território de vida - biodiversidade e diversidade cultural – com um enorme potencial transformador para a conservação biocultural.
+O projeto está sendo desenvolvido no Chile e no Brasil, simultaneamente. No Brasil, a pesquisa será desenvolvida na Zona da Mata pernambucana, região que resiste aos anos de degradação, exploração e opressão, como toda a América Latina. Apesar do processo de colonização devastador, dos conflitos e das lutas históricas que pouco deixaram do bioma Mata Atlântica às novas gerações, a Zona da Mata pode ser vista também como território de vida - biodiversidade e diversidade cultural – com um enorme potencial transformador para a conservação biocultural.
 
 No Chile, vamos considerar, do mesmo modo, um território com características de resistência de povos originários e caminhos para a conservação biocultural em múltiplas escalas.
 
 Ao longo do caminho, que culminará em dezembro de 2026, vamos compartilhar os passos da pesquisa e a potência do processo até os resultados. Sem esquecer que o desenvolvimento de artefatos de base comunitária biocultural é, em si, ferramenta-resultado da pesquisa.
 
-Duas metodologias se encontram nesse projeto, que tem financiamento do @cnpq_oficial são elas: Desenvolvimento Educacional de Multimídias Sustentáveis (DEMULTS) e Filosofia Ambiental do Campo (FILAC). Como acontece em toda boa pesquisa, ainda não sabemos as respostas às perguntas centrais, ou exatamente que frutos vamos colher desse cruzamento. Seguimos no tempo necessário para a colheita. A semente foi plantada! E é coletiva!
+Duas metodologias se encontram nesse projeto, que tem financiamento do CNPq, são elas: Desenvolvimento Educacional de Multimídias Sustentáveis (DEMULTS) e Filosofia Ambiental do Campo (FILAC). Como acontece em toda boa pesquisa, ainda não sabemos as respostas às perguntas centrais, ou exatamente que frutos vamos colher desse cruzamento. Seguimos no tempo necessário para a colheita. A semente foi plantada! E é coletiva!
