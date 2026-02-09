@@ -91,10 +91,9 @@ timelineEvents:
     link: https://www.br-ie.org/pub/index.php/sbie/article/view/5307
     prize: false
   - year: 2021
-    titlepub: Uma Análise da Emergência de Pensamento Computacional em Práticas de
-      Desenvolvimento de Jogos Digitais na Educação do Campo
+    titlepub: Uma Análise da Emergência de Pensamento Computacional em Práticas de Desenvolvimento de Jogos Digitais na Educação do Campo
     event: EDUCOMP
-    bib: FRANÇA, R. S.; PONTUAL FALCÃO, T.; PERES, F.; MORAIS, D. Uma análise da emergência de pensamento computacional em práticas de desenvolvimento de jogos digitais na Educação do Campo. In: SIMPÓSIO BRASILEIRO DE EDUCAÇÃO EM COMPUTAÇÃO (EDUCOMP), 1., 2021, Online. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2021. p.
+    bib: "FRANÇA, R. S.; PONTUAL FALCÃO, T.; PERES, F.; MORAIS, D. Uma análise da emergência de pensamento computacional em práticas de desenvolvimento de jogos digitais na Educação do Campo. In: SIMPÓSIO BRASILEIRO DE EDUCAÇÃO EM COMPUTAÇÃO (EDUCOMP), 1., 2021, Online. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2021."
     link: ""
     prize: false
   - year: 2012
