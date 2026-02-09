@@ -271,7 +271,7 @@ intro:
       email: rivacohen05@gmail.com
       site: https://orcid.org/0000-0002-1702-352X
       linkedin: ""
-      image: /img/riva.png
+      image: /img/riva.jpg
 
 
       
