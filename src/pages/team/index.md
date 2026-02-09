@@ -262,6 +262,21 @@ intro:
       site: "@professorarenatacarvalho"
       lattes: " http://lattes.cnpq.br/4215716379279029"
       email: renata.carvalho@prof.educ.rec.br
+    
+    
+    
+    - name: Riva Resnick
+      text: Pesquisadora das infâncias. Doutoranda em Educação no ProPed/UERJ, Doutorado Sanduíche na Universidade de Ghent, na Bélgica, vinculado ao Projeto de Internacionalização CAPES - PrInt. Mestra em Educação, Culturas e Identidades pela UFRPE/FUNDAJ. Especialista no Uso de Novas Tecnologias Para o Ensino de Línguas Estrangeiras pela UNICAP, bacharela em Ciência da Computação pela Universidade Federal de Pernambuco – UFPE. Pesquisadora no Desenvolvimento Educacional de Multimídias Sustentáveis - DEMULTS/UFRPE.
+      
+Após mais de 15 anos de exercício no desenvolvimento de software voltado para telecomunicação, incluindo atuação em Nortel, Canadá e Avaya, Milpitas - Silicon Valley, com a transição para atividade educacional, sustento uma atuação desde a Educação Infantil até docência no ensino superior. Apaixonada pelo Recife, gosto muito de praia, música e uma boa conversa.
+      lattes: http://lattes.cnpq.br/2782760944015157
+      email: rivacohen05@gmail.com
+      site: https://orcid.org/0000-0002-1702-352X
+      linkedin: ""
+      image: /img/riva.png
+
+
+      
     - name: Bruno Barboza
       text: Atualmente é mestrando em Informática Aplicada pelo Programa de
         Pós-graduação em Informática Aplicada (PPGIA) da Universidade Federal
