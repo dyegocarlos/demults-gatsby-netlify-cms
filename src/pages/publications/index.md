@@ -4,50 +4,49 @@ path: /publications
 title: Publicações e Prêmios
 image: /img/captura-de-tela-2020-12-17-às-09.17.20.png
 timelineEvents:
-- year: 2021
+  - year: 2021
     titlepub: "Processos de desenvolvimento participativo de tecnologias digitais educacionais nos contextos urbano e da Educação do Campo"
     event: Workshop sobre Educação em Computação
     bib: "MORAIS, D. C. S.; PONTUAL FALCÃO, T.; PERES, F. M. A.; TEDESCO, P. C. A. R. Processos de desenvolvimento participativo de tecnologias digitais educacionais nos contextos urbano e da Educação do Campo. In: WORKSHOP SOBRE EDUCAÇÃO EM COMPUTAÇÃO, 29., 2021, Brasil. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2021. p. 111-120. ISSN 2595-6175."
     link: https://doi.org/10.5753/we i.2021.15902
     prize: false
-- year: 2021
+  - year: 2021
     titlepub: "Desenvolvimento de artefatos digitais educacionais com estudantes de ensino fundamental da Educação do Campo"
     event: Workshop de Informática na Escola
     bib: "MORAIS, D. C. S.; PONTUAL FALCÃO, T.; PERES, F. M. A.; TEDESCO, P. C. A. R. Desenvolvimento de artefatos digitais educacionais com estudantes de ensino fundamental da Educação do Campo. In: WORKSHOP DE INFORMÁTICA NA ESCOLA, 27., 2021, Brasil. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2021. p. 137-147."
     link: https://doi.org/10.5753/wie.2021.218707
     prize: false
-- year: 2021
+  - year: 2021
     titlepub: "Children’s participation in the design of digital artifacts: theoretical and methodological considerations"
     event: IHC - Simpósio Brasileiro sobre Fatores Humanos
     bib: "MORAIS, D. C. S.; PONTUAL FALCÃO, T.; TEDESCO, P. C. A. R. Children’s participation in the design of digital artifacts: theoretical and methodological considerations. In: IHC ’21: BRAZILIAN SYMPOSIUM ON HUMAN FACTORS IN COMPUTING SYSTEMS, 20., 2021, Virtual Event Brazil. Anais [...]. New York: Association for Computing Machinery, 2021. p. 1-7."
     link: https://doi.org/10.1145/3472301.3484371
     prize: false
-- year: 2022
+  - year: 2022
     titlepub: "Children’s participation in the design of digital artifacts in rural schools"
     event: IHC - Simpósio Brasileiro sobre Fatores Humanos
     bib: "MORAIS, D. C. S.; PONTUAL FALCÃO, T.; TEDESCO, P. C. A. R. Children’s participation in the design of digital artifacts in rural schools. In: IHC ’22: BRAZILIAN SYMPOSIUM ON HUMAN FACTORS IN COMPUTING SYSTEMS, 21., 2022, Diamantina. Anais [...]. New York: Association for Computing Machinery, 2022. p. 1-11."
     link: https://doi.org/10.1145/3554364.3559110
     prize: false
-  
-- year: 2021
+  - year: 2021
     titlepub: "Vozes sociais, educação do campo e projetos de vida: Uma análise dialógica sobre as práticas no SERTA (Serviço de Tecnologia Alternativa)"
     event: Revista Brasileira de Educação do Campo
     bib: "SILVA, Niceia; PERES, Flavia. Vozes sociais, educação do campo e projetos de vida: Uma análise dialógica sobre as práticas no SERTA (Serviço de Tecnologia Alternativa). Revista Brasileira de Educação do Campo, 6(2021):1-29"
     link: https://periodicos.ufnt.edu.br/index.php/campo/article/view/10784
     prize: false
-- year: 2023
+  - year: 2023
     titlepub: "Quando corpos apontam caminhos: reflexões sobre memória biocultural e práticas comunitárias para diversidade biológica e cultural"
     event: Revista Cocar
     bib: "PERES, F. M. de A.; MEDINA MORALES, L. P. Quando corpos apontam caminhos: reflexões sobre memória biocultural e práticas comunitárias para diversidade biológica e cultural: Cuando los cuerpos señalan los caminos: reflexiones sobre memoria biocultural y las prácticas comunitarias para la diversidad biológica y cultural. Revista Cocar, [S. l.], v. 19, n. 37, 2023."
     link: https://periodicos.uepa.br/index.php/cocar/article/view/6846
     prize: false
-- year: 2023
+  - year: 2023
     titlepub: "Memórias E Artefatos Para Conservação Biocultural Em Territórios Reflexões Sobre Processos Educacionais"
     event: Artefactum - revista de estudos interdisciplinares
     bib: "PERES, Flávia Mendes de Andrade e; MEDINA MORALES, Lorena Pia. MEMÓRIAS E ARTEFATOS PARA CONSERVAÇÃO BIOCULTURAL EM TERRITÓRIOS: REFLEXÕES SOBRE PROCESSOS EDUCACIONAIS. Artefactum - revista de estudos interdisciplinares, [S. l.], v. 22, n. 1, 2023. "
     link: https://artefactumjournal.com/index.php/artefactum/article/view/2144
     prize: false
-- year: 2023
+  - year: 2023
     titlepub: "Dialogismo nas Práticas Educacionais do Serviço De Tecnologia Alternativa Serta em Pernambuco Reflexões sobre Projetos de Vida das Juventudes Campesinas"
     event: Cadernos de Estudos Sociais
     bib: "ANDRADE DA SILVA, Nicéia; MENDES DE ANDRADE E PERES, Flávia. DIALOGISMO NAS PRÁTICAS EDUCACIONAIS DO SERVIÇO DE TECNOLOGIA ALTERNATIVA (SERTA) EM PERNAMBUCO: REFLEXÕES SOBRE PROJETOS DE VIDA DAS JUVENTUDES CAMPESINAS. Cadernos de Estudos Sociais, [S. l.], v. 38, n. 1, 2023. DOI: 10.33148/CES(2157)."
