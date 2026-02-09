@@ -22,7 +22,6 @@ timelineEvents:
     bib: "MORAIS, D. C. S.; PONTUAL FALCÃO, T.; TEDESCO, P. C. A. R. Children’s participation in the design of digital artifacts: theoretical and methodological considerations. In: IHC ’21: BRAZILIAN SYMPOSIUM ON HUMAN FACTORS IN COMPUTING SYSTEMS, 20., 2021, Virtual Event Brazil. Anais [...]. New York: Association for Computing Machinery, 2021. p. 1-7."
     link: https://doi.org/10.1145/3472301.3484371
     prize: false
-
 - year: 2022
     titlepub: "Children’s participation in the design of digital artifacts in rural schools"
     event: IHC - Simpósio Brasileiro sobre Fatores Humanos
