@@ -98,17 +98,7 @@ intro:
       linkedin: ""
       email: peres.flavia@gmail.com
     - text: >-
-        Graduação na área de Gestão em Marketing pela IPESU, Graduação em Design
-        Gráfico pela AESO Barros Melo. Professora da Rede Estadual nos Cursos
-        Técnicos em Comunicação Visual. Atualmente no corpo técnico da Escola
-        Técnica Miguel Batista. Cursando MBA em Marketing Digital na ESUDA. 
-
-        Participante voluntaria no grupo de Pesquisa DEMULTS, como Designer atuando junto ao grupo na linha de pesquisa do Design Participativo. Como a Ilustração e o Design podem transformar o individuo. 
-
-        Atuando como profissional na área de criação de Identidade visual, Embalagens, Projetos editorais e Mídias Digitais.
-
-
-        Nas Horas Livres gosto de ilustrar, cultivar cactos, ler sobre a vida e obras de Frida Khalo. Fazer Oficinas de Desenho e Colagens, Amo Fotografia e fazer coisas artesanais utilizando objetos de reutilização.
+        Cursando o mestrado em Educação Culturas e Identidades - UFRPE e Fundação Joaquim Nabuco. Graduação na área de Gestão em Marketing pela IPESU, Graduação em Design Gráfico pela AESO Barros Melo. Professora da Rede Estadual nos Cursos Técnicos em Design Gráfico. Participante no grupo de Pesquisa DEMULTS, como Designer atuando junto ao grupo na linha de pesquisa do Design Participativo. Como a Ilustração e o Design podem transformar o indivíduo. Atuando como profissional na área de criação de Identidade visual, Embalagens, Projetos editoriais e Mídias Digitais. Nas Horas Livres gosto de ilustrar, cultivar cactos, ler sobre a vida e obras de Frida Khalo. Fazer Oficinas de Desenho e Colagens, Amo Fotografia e fazer coisas artesanais utilizando objetos de reutilização Ressignificando os artefatos.
       name: Lídia Borges Vidigal
       email: "lidiavidigal21@gmail.com "
       lattes: " http://lattes.cnpq.br/6496230158650924"
@@ -213,52 +203,24 @@ intro:
       email: rozelma.franca@ufrpe.br
       image: /img/rozelma-1-....jpg
     - name: Taciana Pontual da Rocha Falcão
-      text: "Professora adjunta do Departamento de Computação da Universidade Federal
-        Rural de Pernambuco (UFRPE), onde também atuou como coordenadora do
-        curso de Licenciatura em Computação da UFRPE (2018-2020) e preside a
-        Comissão de Ensino do departamento desde 2018. É bacharela (2004) e
-        mestre (2007) em Ciência da Computação pela Universidade Federal de
-        Pernambuco – UFPE, e doutora pela University of London (Institute of
-        Education, 2014), em tecnologias educacionais. Fez pós-doutorado na
-        McGill University, School of Information Studies (Canadá, 2017), na área
-        de tecnologias assistivas. Faz parte dos programas de pós-graduação em
-        Informática Aplicada (PPGIA) e Tecnologia e Gestão em Educação a
-        Distância (PPGTEG), ambos na UFRPE. É editora associada da Revista
-        Brasileira de Informática na Educação (RBIE) e representante das
-        Américas Central e do Sul no corpo de consultores do British Journal of
-        Educational Technology (BJET). Faz parte do DEMULTS desde 2013. Sua
-        pesquisa é focada na aplicação de tecnologias aos processos
-        educacionais, incluindo: educação em computação, pensamento
-        computacional, interação humano-computador, acessibilidade e analíticas
-        de aprendizagem."
+      text: "Professora associada do Departamento de Computação da Universidade Federal Rural de Pernambuco (UFRPE),  bacharela (2004) e mestre (2007) em Ciência da Computação pela Universidade Federal de Pernambuco – UFPE, e doutora pela University of London (Institute of Education, 2014), em tecnologias educacionais. Fez pós-doutorado na McGill University, School of Information Studies (Canadá, 2017), na área de tecnologias assistivas. Faz parte dos programas de pós-graduação em Informática Aplicada (PPGIA) e Tecnologia e Gestão em Educação a Distância (PPGTEG), ambos na UFRPE. Faz parte do DEMULTS desde 2013. Sua pesquisa é focada na aplicação de tecnologias aos processos educacionais, incluindo: educação em computação, pensamento computacional, interação humano-computador, acessibilidade e analíticas de aprendizagem."
       lattes: http://lattes.cnpq.br/5706959249737319
       email: taciana.pontual@ufrpe.br
       site: http://www.tacianapontual.com.br
       linkedin: ""
-      image: /img/taciana2-....png
-    - image: /img/perfil.jpeg
+      image: /img/taci.jpeg
+    - name: Priscilla Batista Mendes
+      text: "Possui pós-graduação Lato Sensu MBA em Gestão de Projetos (2018) pela Unicesumar - Centro Universitário Cesumar, graduação em Engenharia da Computação pela Universidade de Pernambuco (2011) e graduação em Engenharia de Produção pela Universidade Federal de Pernambuco (2008), e cursos técnicos profissionalizantes pelo Conservatório Pernambucano de Música - habilitação em Cravo (2018) e habilitação em Piano Erudito (2011). Atualmente, faz Mestrado no Programa de Pós-Graduação em Informática Aplicada na Universidade Federal Rural de Pernambuco. Também atua como coralista no naipe de sopranos do Coro de Câmara do Conservatório Pernambucano de Música. Sua área de pesquisa é em Pensamento Computacional, também tendo experiência em pesquisa na área de Tecnologias Educacionais, em especial, relacionada à plataforma Moodle."
+      lattes: http://lattes.cnpq.br/3429503148603093
+      email: ""
+      site: https://orcid.org/0000-0001-9716-085X
+      linkedin: ""
+      image: /img/priscila.png
+
+
+    - image: /img/renatacarvalho.png
       name: Renata Carvalho da Silva
-      text: >
-        Pedagoga, mestra em Educação, Culturas e Identidades pela UFRPE/FUNDAJ.
-
-        Especialista em Psicopedagogia Escolar, e em Educação Especial e Inclusiva com ênfase em Tecnologia Assistiva e Comunicação Alternativa.
-
-        Possui experiência em pesquisa e extensão, em Educação Social, na Formação continuada de professores e educadores sociais, e em Regência nos anos inicias do Ensino Fundamental, Educação Infantil, Educação de Jovens e Adultos, e disciplinas pedagógicas no Ensino Médio.
-
-        Pesquisadora no Desenvolvimento Educacional de Multimídias Sustentáveis - DEMULTS/UFRPE e na RBAC Rede Brasileira de Aprendizagem Criativa (Núcleo Recife).
-
-        Professora Multiplicadora de Tecnologias Educacionais da Rede Municipal de Ensino do Recife, realizando acompanhamento e formação de professores, cursos, oficinas, projetos de Audiovisual e Acessibilidade na Educação, e mentoria de clube de Programação com Scratch.
-
-        Docente do Curso de graduação em Pedagogia da UNIBRA – Centro Universitário Brasileiro.
-
-        Tutora Virtual do Curso de graduação em Licenciatura em Artes Visuais Digitais da EAD/UFRPE.
-
-        Obteve premiação na Feira de Conhecimentos do Recife (FECON) em 2018 com credencial para o Ceará, e na Milset Brasil em 2019 com credencial para o Paraguai. Obteve, ainda, o Prêmio “Boas Práticas” da Fundação Lemann, o Prêmio “Prática Destaque” pelo Grupo Neoenergia, e o prêmio “Professora Destaque” no Encontro de Audiovisual na Educação do Recife em 2019.
-
-        Linha de pesquisa: Práticas criativas, sustentáveis, inclusivas e inovadoras com Tecnologias Educacionais.
-
-
-        Gosta de ler, assistir filmes, desenhar, dançar e viajar.
+      text: "É Pedagoga, Mestra em Educação, Culturas e Identidades pela UFRPE/FUNDAJ. Doutoranda na Rede Nordeste de Ensino RENOEN/UFRPE com bolsa de Doutorado Sanduíche na Pontificia Universidad Católica do Chile pelo Conselho Nacional de Pesquisa CNPq/Brasil. Especialista em Psicopedagogia Escolar, em Educação Especial e Inclusiva com ênfase em Tecnologia Assistiva e Comunicação Alternativa e em Novas Tecnologias para a Educação. Possui experiência em pesquisa e extensão, em Educação Ambiental, na Formação continuada de professores e educadores sociais. Experiência, também, em regência nos anos iniciais do Ensino Fundamental, Educação Infantil, Educação de Jovens e Adultos, disciplinas pedagógicas no Ensino Médio, como multiplicadora de Tecnologias na Educação, como Técnica-pedagógica, como Professora Brailista, e como Tutora Virtual, e em regência no Ensino Superior em graduação e pós-graduação.  Obteve várias premiações nacionais e internacionais em Educação. Pesquisadora em Desenvolvimento Educacional de Multimídias Sustentáveis - DEMULTS/UFRPE e em Formação de Professores de Biologia FORBIO/UFRPE. Linha de pesquisa: Práticas criativas, sustentáveis, inclusivas e inovadoras com Tecnologias Educacionais, Currículo e Cultura. É natural de Recife, terra que ama. Gosta de ler, escrever, desenhar, dançar e viajar. Cinema, cultura, gastronomia e música nacional são suas preferências."
       site: "@professorarenatacarvalho"
       lattes: " http://lattes.cnpq.br/4215716379279029"
       email: renata.carvalho@prof.educ.rec.br
