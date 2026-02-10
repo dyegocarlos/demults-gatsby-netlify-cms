@@ -8,75 +8,6 @@ description: "O DEMULTS se tornou um ambiente em que as relações se dão para
   além das intenções acadêmicas e profissionais. "
 intro:
   blurbs:
-    - text: >
-        Licenciada em Biologia pela Universidade Federal de
-        Pernambuco-UFPE-(2015), Licencianda em Computação pela Universidade
-        Federal Rural de Pernambuco- UFRPE-(2019.2), Mestranda em Informática
-        Aplicada pela Universidade Federal Rural de Pernambuco-UFRPE-(2020).
-        Atua como técnica em projetos  da educação em prisões da Gerência de
-        Educação de Jovens, Adultos e Idosos- GEJAI- Secretária de Educação do
-        Estado-SEE-PE. Representante da SEE-PE no Fórum Pernambucano de Combate
-        ao Agrotóxico. 
-
-        Hobbies: “Construir casas”, assistir filmes (diversos), cozinhar, ouvir música. 
-      name: Bárbara Silva Morais
-      lattes: " http://lattes.cnpq.br/2325795251461013"
-      email: bebelkinp458@gmail.com
-      image: /img/barbara....jpeg
-    - image: /img/eu.png
-      name: Dyego Carlos Sales de Morais
-      text: Licenciado (UFRPE), Mestre e Doutorando em Ciência da Computação
-        (CIn/UFPE). Participa do DEMULTS desde sua criação, em 2012,
-        investigando processos participativos em contextos escolares urbanos e
-        rurais. Suas áreas de interesse vão desde Interação Humano-Computador
-        até Educação do Campo, passeando por Filosofia da Tecnologia e Educação
-        em Computação. Com utopia nos olhos e nos pés, sonha e faz tudo pensando
-        na libertação de todas as pessoas historicamente oprimidas. Gosta de
-        estar em contato com a natureza em praias e trilhas; consumir conteúdos
-        e conversar sobre política, cultura e cinema.
-      lattes: ""
-      site: https://www.dyegocarlos.com/
-      linkedin: ""
-      email: moraisdcs@gmail.com
-    - name: Fernando Rodrigues de Lima Júnior
-      text: >-
-        Atuação:
-
-        - Professor do magistério superior vinculado ao Departamento de Psicologia da Faculdade de Ciências Humanas de Olinda
-
-
-        Formação:
-
-        - Doutorando em Psicologia Clínica pela Universidade Católica de Pernambuco
-
-        - Mestre em Educação, Culturas e Identidades pela Universidade Federal Rural de Pernambuco e pela Fundação Joaquim Nabuco
-
-        - Especialista em Ações Interventivas em Psicologia Clínica pela Faculdade de Ciências Humanas de Olinda
-
-        - Bacharel em Psicologia pela Faculdade de Ciências Humanas de Olinda
-
-
-        Experiência e Interesses temáticos:
-
-        - a subjetivação e a passagem adolescente
-
-        - identificação e processos subjetivos no espaço-tempo tecnológico-digital contemporâneo
-
-        - subjetivação, laços sociais e vivências virtuais-digitais na educação
-
-
-        Hobbies:
-
-        - Considero-me um "nerd fã" das vivências de imersão digital proporcionadas por jogos relacionados à simulação de vida e interpretação de personagens
-
-        - Leitor, cinéfilo e jogador de obras que envolvam experiências de fantasia em mundos de magia, especialmente incluindo o universo de Harry Potter e da Terra Média
-
-        - Maratonador de séries e documentários que envolvam conteúdos 
-      lattes: http://lattes.cnpq.br/2378445308939577
-      image: /img/servletrecuperafoto.jpg
-      email: fernando.rlimajr@gmail.com
-      site: ""
-      linkedin: ""
     - text: |-
         Mestrado e Doutorado em Psicologia Cognitiva (UFPE). Professora
         Associada da Universidade Federal Rural de Pernambuco (UFRPE),
@@ -97,6 +28,64 @@ intro:
       site: ""
       linkedin: ""
       email: peres.flavia@gmail.com
+    - name: Taciana Pontual da Rocha Falcão
+      text: "Professora associada do Departamento de Computação da Universidade Federal Rural de Pernambuco (UFRPE),  bacharela (2004) e mestre (2007) em Ciência da Computação pela Universidade Federal de Pernambuco – UFPE, e doutora pela University of London (Institute of Education, 2014), em tecnologias educacionais. Fez pós-doutorado na McGill University, School of Information Studies (Canadá, 2017), na área de tecnologias assistivas. Faz parte dos programas de pós-graduação em Informática Aplicada (PPGIA) e Tecnologia e Gestão em Educação a Distância (PPGTEG), ambos na UFRPE. Faz parte do DEMULTS desde 2013. Sua pesquisa é focada na aplicação de tecnologias aos processos educacionais, incluindo: educação em computação, pensamento computacional, interação humano-computador, acessibilidade e analíticas de aprendizagem."
+      lattes: http://lattes.cnpq.br/5706959249737319
+      email: taciana.pontual@ufrpe.br
+      site: http://www.tacianapontual.com.br
+      linkedin: ""
+      image: /img/taci.jpeg
+    - name: Rozelma Soares de  França
+      text: >-
+        Rozelma Soares de França
+
+        Formação
+
+        Licenciada em Computação pela Universidade de Pernambuco (2012)
+
+        Mestre em Ciência da Computação pela Universidade Federal de Pernambuco (2015)
+
+        Doutora em Ciência da Computação pela Universidade Federal de Pernambuco  (2020)
+
+        Atuação
+
+        Professora Adjunta do Departamento de Educação da Universidade Federal Rural de Pernambuco
+
+        Experiências e Interesses de Pesquisa:
+
+        Tecnologias para a Educação
+
+        Pensamento Computacional
+
+        Formação de professores de Computação  
+
+        Métodos e materiais de apoio ao ensino de Computação na escola
+
+        Hobbies:
+
+        Viajar, cozinhar, decorar o meu refúgio ~ lar ~ e, mais recentemente, bordar :)
+      lattes: http://lattes.cnpq.br/4282789732521235
+      site: https://www.falecomrozelma.com/
+      linkedin: https://www.linkedin.com/in/rozelma-soares-de-fran%C3%A7a-5bb28b38/
+      email: rozelma.franca@ufrpe.br
+      image: /img/rozelma-1-....jpg
+    - image: /img/dyego-demults.png
+      name: Dyego Carlos Sales de Morais
+      text: Licenciado (UFRPE), Mestre e Doutorando em Ciência da Computação
+        (CIn/UFPE). Participa do DEMULTS desde sua criação, em 2012,
+        investigando processos participativos em contextos escolares urbanos e
+        rurais. Suas áreas de interesse vão desde Interação Humano-Computador
+        até Educação do Campo, passeando por Filosofia da Tecnologia e Educação
+        em Computação. Com utopia nos olhos e nos pés, sonha e faz tudo pensando
+        na libertação de todas as pessoas historicamente oprimidas. Gosta de
+        estar em contato com a natureza em praias e trilhas; consumir conteúdos
+        e conversar sobre política, cultura e cinema.
+      lattes: http://lattes.cnpq.br/1241830233928367
+      site: https://dyegocarlos.netlify.app/
+      linkedin: https://www.linkedin.com/in/dyego-morais-phd-567a4271/
+      email: dyego12345@gmail.com
+    
+    
     - text: >-
         Cursando o mestrado em Educação Culturas e Identidades - UFRPE e Fundação Joaquim Nabuco. Graduação na área de Gestão em Marketing pela IPESU, Graduação em Design Gráfico pela AESO Barros Melo. Professora da Rede Estadual nos Cursos Técnicos em Design Gráfico. Participante no grupo de Pesquisa DEMULTS, como Designer atuando junto ao grupo na linha de pesquisa do Design Participativo. Como a Ilustração e o Design podem transformar o indivíduo. Atuando como profissional na área de criação de Identidade visual, Embalagens, Projetos editoriais e Mídias Digitais. Nas Horas Livres gosto de ilustrar, cultivar cactos, ler sobre a vida e obras de Frida Khalo. Fazer Oficinas de Desenho e Colagens, Amo Fotografia e fazer coisas artesanais utilizando objetos de reutilização Ressignificando os artefatos.
       name: Lídia Borges Vidigal
@@ -168,47 +157,7 @@ intro:
       linkedin: https://www.linkedin.com/in/renatabrasileiro/
       email: renata.brasileiro@yahoo.com
       image: /img/renatao-jpeg.jpeg
-    - name: Rozelma Soares de  França
-      text: >-
-        Rozelma Soares de França
-
-        Formação
-
-        Licenciada em Computação pela Universidade de Pernambuco (2012)
-
-        Mestre em Ciência da Computação pela Universidade Federal de Pernambuco (2015)
-
-        Doutora em Ciência da Computação pela Universidade Federal de Pernambuco  (2020)
-
-        Atuação
-
-        Professora Adjunta do Departamento de Educação da Universidade Federal Rural de Pernambuco
-
-        Experiências e Interesses de Pesquisa:
-
-        Tecnologias para a Educação
-
-        Pensamento Computacional
-
-        Formação de professores de Computação  
-
-        Métodos e materiais de apoio ao ensino de Computação na escola
-
-        Hobbies:
-
-        Viajar, cozinhar, decorar o meu refúgio ~ lar ~ e, mais recentemente, bordar :)
-      lattes: http://lattes.cnpq.br/4282789732521235
-      site: https://www.falecomrozelma.com/
-      linkedin: https://www.linkedin.com/in/rozelma-soares-de-fran%C3%A7a-5bb28b38/
-      email: rozelma.franca@ufrpe.br
-      image: /img/rozelma-1-....jpg
-    - name: Taciana Pontual da Rocha Falcão
-      text: "Professora associada do Departamento de Computação da Universidade Federal Rural de Pernambuco (UFRPE),  bacharela (2004) e mestre (2007) em Ciência da Computação pela Universidade Federal de Pernambuco – UFPE, e doutora pela University of London (Institute of Education, 2014), em tecnologias educacionais. Fez pós-doutorado na McGill University, School of Information Studies (Canadá, 2017), na área de tecnologias assistivas. Faz parte dos programas de pós-graduação em Informática Aplicada (PPGIA) e Tecnologia e Gestão em Educação a Distância (PPGTEG), ambos na UFRPE. Faz parte do DEMULTS desde 2013. Sua pesquisa é focada na aplicação de tecnologias aos processos educacionais, incluindo: educação em computação, pensamento computacional, interação humano-computador, acessibilidade e analíticas de aprendizagem."
-      lattes: http://lattes.cnpq.br/5706959249737319
-      email: taciana.pontual@ufrpe.br
-      site: http://www.tacianapontual.com.br
-      linkedin: ""
-      image: /img/taci.jpeg
+    
     - name: Priscilla Batista Mendes
       text: "Possui pós-graduação Lato Sensu MBA em Gestão de Projetos (2018) pela Unicesumar - Centro Universitário Cesumar, graduação em Engenharia da Computação pela Universidade de Pernambuco (2011) e graduação em Engenharia de Produção pela Universidade Federal de Pernambuco (2008), e cursos técnicos profissionalizantes pelo Conservatório Pernambucano de Música - habilitação em Cravo (2018) e habilitação em Piano Erudito (2011). Atualmente, faz Mestrado no Programa de Pós-Graduação em Informática Aplicada na Universidade Federal Rural de Pernambuco. Também atua como coralista no naipe de sopranos do Coro de Câmara do Conservatório Pernambucano de Música. Sua área de pesquisa é em Pensamento Computacional, também tendo experiência em pesquisa na área de Tecnologias Educacionais, em especial, relacionada à plataforma Moodle."
       lattes: http://lattes.cnpq.br/3429503148603093
@@ -236,7 +185,60 @@ intro:
       image: /img/riva.jpg
 
 
-      
+    - text: >
+        Licenciada em Biologia pela Universidade Federal de
+        Pernambuco-UFPE-(2015), Licencianda em Computação pela Universidade
+        Federal Rural de Pernambuco- UFRPE-(2019.2), Mestranda em Informática
+        Aplicada pela Universidade Federal Rural de Pernambuco-UFRPE-(2020).
+        Atua como técnica em projetos  da educação em prisões da Gerência de
+        Educação de Jovens, Adultos e Idosos- GEJAI- Secretária de Educação do
+        Estado-SEE-PE. Representante da SEE-PE no Fórum Pernambucano de Combate
+        ao Agrotóxico. 
+
+        Hobbies: “Construir casas”, assistir filmes (diversos), cozinhar, ouvir música. 
+      name: Bárbara Silva Morais
+      lattes: " http://lattes.cnpq.br/2325795251461013"
+      email: bebelkinp458@gmail.com
+      image: /img/barbara....jpeg
+    - name: Fernando Rodrigues de Lima Júnior
+      text: >-
+        Atuação:
+
+        - Professor do magistério superior vinculado ao Departamento de Psicologia da Faculdade de Ciências Humanas de Olinda
+
+
+        Formação:
+
+        - Doutorando em Psicologia Clínica pela Universidade Católica de Pernambuco
+
+        - Mestre em Educação, Culturas e Identidades pela Universidade Federal Rural de Pernambuco e pela Fundação Joaquim Nabuco
+
+        - Especialista em Ações Interventivas em Psicologia Clínica pela Faculdade de Ciências Humanas de Olinda
+
+        - Bacharel em Psicologia pela Faculdade de Ciências Humanas de Olinda
+
+
+        Experiência e Interesses temáticos:
+
+        - a subjetivação e a passagem adolescente
+
+        - identificação e processos subjetivos no espaço-tempo tecnológico-digital contemporâneo
+
+        - subjetivação, laços sociais e vivências virtuais-digitais na educação
+
+
+        Hobbies:
+
+        - Considero-me um "nerd fã" das vivências de imersão digital proporcionadas por jogos relacionados à simulação de vida e interpretação de personagens
+
+        - Leitor, cinéfilo e jogador de obras que envolvam experiências de fantasia em mundos de magia, especialmente incluindo o universo de Harry Potter e da Terra Média
+
+        - Maratonador de séries e documentários que envolvam conteúdos 
+      lattes: http://lattes.cnpq.br/2378445308939577
+      image: /img/servletrecuperafoto.jpg
+      email: fernando.rlimajr@gmail.com
+      site: ""
+      linkedin: ""
     - name: Bruno Barboza
       text: Atualmente é mestrando em Informática Aplicada pelo Programa de
         Pós-graduação em Informática Aplicada (PPGIA) da Universidade Federal
