@@ -4,7 +4,7 @@ path: /publications
 title: Publicações e Prêmios
 image: /img/captura-de-tela-2020-12-17-às-09.17.20.png
 timelineEvents:
-- year: 2024
+  - year: 2024
     titlepub: "Promoting Children’s Participation in a Participatory Design Process in a Rural School: A new role needed?"
     event: Journal of the Brazilian Computer Society
     bib: "Morais, D. C. S. de, Pontual Falcão, T., & Tedesco, P. (2024). Promoting Children’s Participation in a Participatory Design Process in a Rural School: A new role needed?. Journal of the Brazilian Computer Society, 30(1), 116–132."
